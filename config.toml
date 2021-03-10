@@ -3,7 +3,7 @@ languageCode = "ja"
 title = "choiyakiBlog"
 contentDir = "post"
 disableKinds = ["RSS", "sitemap"]
-theme = "fuji"
+theme = "mainload"
 publishDir = "docs"
 [taxonomies]
 category = "category"
