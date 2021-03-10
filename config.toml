@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "ja"
+title = "choiyakiBlog"
+contentDir = "post"
+disableKinds = ["RSS", "sitemap"]
+[taxonomies]
+category = "category"
+tag = "tags"
