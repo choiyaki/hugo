@@ -4,6 +4,7 @@ title = "choiyakiBlog"
 contentDir = "post"
 disableKinds = ["RSS", "sitemap"]
 theme = "fuji"
+publishDir = "docs"
 [taxonomies]
 category = "category"
 tag = "tags"
