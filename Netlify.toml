@@ -30,7 +30,7 @@ HUGO_VERSION = "0.74.3"
 HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
-from = "/id=:p"
-to = "/p:id"
+from = "https://604c72a53e4e120008af6085--musing-hawking-60eba8.netlify.app/id=:p/"
+to = "https://604c72a53e4e120008af6085--musing-hawking-60eba8.netlify.app/p:id/"
 status = 301
 force = false
