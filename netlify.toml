@@ -1,4 +1,4 @@
 [[redirects]]
-from = "/aaa/*"
-to = "/bbb/"
+from = "/p108/"
+to = ""
 status = 200
