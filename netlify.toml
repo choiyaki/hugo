@@ -1,5 +1,5 @@
 [[redirects]]
 from = "/p*/"
-to = "/post:splat"
+to = "/post/:splat"
 status = 301
 force = false
