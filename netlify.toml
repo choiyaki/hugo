@@ -1,4 +1,5 @@
 [[redirects]]
-  from = "/blog/*"
-  to = "/article/:splat"
-  status = 301
+from = "/id=:p/"
+to = "/p:id/"
+status = 301
+force = false
