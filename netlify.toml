@@ -1,4 +1,4 @@
 [[redirects]]
-from = "https://604cbc142736280007dda6d0--musing-hawking-60eba8.netlify.app/blog/*"
-to = "https://604cbc142736280007dda6d0--musing-hawking-60eba8.netlify.app/article/:splat"
+from = "/blog/*"
+to = "/article/:slate"
 status = 301
