@@ -1,1 +1,0 @@
-/blog/*	/article/:splat	200
