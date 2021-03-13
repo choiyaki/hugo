@@ -1,5 +1,5 @@
 [[redirects]]
-from = "https://604c9c17e7a32700073e42e4--musing-hawking-60eba8.netlify.app/p=:id/"
-to = "https://604c9c17e7a32700073e42e4--musing-hawking-60eba8.netlify.app/p:id/"
+from = "/aaa/p=:id/"
+to = "/aaa/p:id/"
 status = 200
 force = false
