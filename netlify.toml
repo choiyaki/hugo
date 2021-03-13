@@ -1,6 +1,0 @@
-[[redirects]]
-from = "/article"
-query = {id = ":id"}
-to = "/post/:id/"
-status = 301
-force = false
