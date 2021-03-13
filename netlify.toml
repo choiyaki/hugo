@@ -1,4 +1,5 @@
 [[redirects]]
-from = "/id=:p/"
-to = "/p:id/"
+from = "https://604c9c17e7a32700073e42e4--musing-hawking-60eba8.netlify.app/id=:p/"
+to = "https://604c9c17e7a32700073e42e4--musing-hawking-60eba8.netlify.app/p:id/"
 status = 301
+force = false
