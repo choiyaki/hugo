@@ -1,1 +1,1 @@
-/post/*	/article/:splat	301
+/article/	id=:id	/article/:id	301
