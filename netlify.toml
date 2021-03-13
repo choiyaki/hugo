@@ -2,4 +2,3 @@
 from = "/id=:p/"
 to = "/p:id/"
 status = 301
-force = false
