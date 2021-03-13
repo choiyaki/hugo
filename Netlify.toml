@@ -32,5 +32,5 @@ HUGO_ENABLEGITINFO = "true"
 [[redirects]]
 from = "/blog/*"
 to = "/article/:splat"
-status = 301
+status = 200
 force = false
