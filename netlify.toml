@@ -1,6 +1,6 @@
 [[redirects]]
-from = "/"
+from = "/article/"
 query = {id = ":p"}
-to = "/p:id/"
+to = "/article/p:id/"
 status = 301
 force = false
