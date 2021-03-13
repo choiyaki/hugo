@@ -1,5 +1,6 @@
 [[redirects]]
-from = "/aaa/p=:id/"
-to = "/aaa/p:id/"
-status = 200
+from = "/"
+query = {p = ":id"}
+to = "/p:id/"
+status = 301
 force = false
