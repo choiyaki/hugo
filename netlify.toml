@@ -1,6 +1,6 @@
 [[redirects]]
-from = "/"
+from = "https://604ca3da903d9d0009fecd2b--musing-hawking-60eba8.netlify.app/"
 query = {id = ":p"}
-to = "/p:id"
+to = "https://604ca3da903d9d0009fecd2b--musing-hawking-60eba8.netlify.app/p:id"
 status = 301
 force = false
