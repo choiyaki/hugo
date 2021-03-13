@@ -1,6 +1,6 @@
 [[redirects]]
 from = "/aaa/"
-query = {p = ":p/"}
-to = "/:p/"
+query = {p = ":p"}
+to = "/:p"
 status = 301
 force = false
