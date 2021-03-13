@@ -1,5 +1,6 @@
 [[redirects]]
 from = "/"
-query = {p = ":p*"}
-to = "/:p:splat"
+query = {p = ":p/"}
+to = "/:p/"
 status = 301
+force = false
