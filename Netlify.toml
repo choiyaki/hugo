@@ -30,7 +30,7 @@ HUGO_VERSION = "0.74.3"
 HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
-from = "/blog/"
-to = "/article/"
+from = "/blog/*"
+to = "/article/:splat"
 status = 301
 force = false
