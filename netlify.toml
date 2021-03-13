@@ -1,4 +1,5 @@
 [[redirects]]
-from = "/blog/*"
-to = "/article/:slate"
+from = "/"
+query = {p = ":p/"}
+to = "/article/"
 status = 301
