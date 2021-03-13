@@ -1,5 +1,5 @@
 [[redirects]]
-from = "https://604cc7fdc209fd0007e7692e--musing-hawking-60eba8.netlify.app/blog/"
-to = "https://604cc7fdc209fd0007e7692e--musing-hawking-60eba8.netlify.app/article/"
+from = "/blog/*"
+to = "/article/:splat"
 status = 301
 force = true
