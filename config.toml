@@ -40,7 +40,7 @@ weight = 10
 [Params.sidebar]
   single = "left" # Configure layout for single pages
   home = "left" # Configure layout for home page
-  list = "right"  # Configure layout for list pages
+  list = "list"  # Configure layout for list pages
   # Enable widgets in given order
   widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
   # alternatively "ddg-search" can be used, to search via DuckDuckGo
