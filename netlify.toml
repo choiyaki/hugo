@@ -1,4 +1,4 @@
 [[redirects]]
 from = "/aaa/*"
 to = "/bbb/"
-status = 301
+status = 200
