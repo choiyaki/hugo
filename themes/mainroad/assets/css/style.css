@@ -635,8 +635,9 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 .post__title {
 	margin: 0;
+	padding: 1rem 1.2rem;
 	background: #008080;
-	font-color: white;
+	color: white;
 }
 
 .post__meta {
