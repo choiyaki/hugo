@@ -584,12 +584,12 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .main__header {
 	margin-bottom: 20px;
 	margin-bottom: 1.25rem;
-	border-bottom: 3px dotted #000;
 }
 
 .main__title {
 	font-size: 28px;
 	font-size: 1.75rem;
+	border-bottom: 3px dotted #000;
 }
 
 .main__content {
