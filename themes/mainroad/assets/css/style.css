@@ -390,6 +390,7 @@ select {
 
 .logo {
 	padding: 25px;
+	text-align: center;
 }
 
 .logo__link {
