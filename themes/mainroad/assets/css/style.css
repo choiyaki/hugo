@@ -584,6 +584,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .main__header {
 	margin-bottom: 20px;
 	margin-bottom: 1.25rem;
+	border-bottom: 3px dotted #000;
 }
 
 .main__title {
@@ -876,7 +877,9 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 .list__title {
 	font-size: 20px;
-	font-size: 1.25rem;
+	font-size: 1.75rem;
+	padding: 1rem 2rem;
+  	border-left: 4px solid #000;
 }
 
 .list__meta {
