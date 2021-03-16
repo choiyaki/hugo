@@ -637,9 +637,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	/*線の種類（実線） 太さ 色*/
   	border-bottom: solid 3px black;
   	padding-bottom: 5px;
-	font-size: 1.4rem;
-	margin-left: 5px;
-	margin-right: 5px;
+	font-size: 1.5rem;
 }
 
 .post__meta {
