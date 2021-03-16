@@ -1068,11 +1068,11 @@ textarea {
 
 .widget__title {
 	position: relative;
-	padding-bottom: 5px;
+	/*padding-bottom: 5px;*/
 	font-size: 16px;
 	font-size: 1rem;
 	text-transform: none;
-	border-bottom: 3px solid {{ $highlightColor }};
+	/*border-bottom: 3px solid {{ $highlightColor }};*/
 }
 
 .widget__item {
