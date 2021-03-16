@@ -651,6 +651,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
  	position: relative;
 	display: inline-block;
 	margin-bottom: 1em;
+	text-align: center;
 }
 
 .post__meta {
