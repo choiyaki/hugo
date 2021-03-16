@@ -633,25 +633,12 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	vertical-align: middle;
 }
 
-.post__title:before {
-  content: '';
-  position: absolute;
-  bottom: -15px;
-  display: inline-block;
-  width: 60px;
-  height: 5px;
-  left: 50%;
-  -webkit-transform: translateX(-50%);
-  transform: translateX(-50%);
-  background-color: #008080;
-  border-radius: 2px;
-}
 .post__title {
-	margin: 0;
- 	position: relative;
-	display: inline-block;
-	margin-bottom: 1em;
-	text-align: center;
+  	background: #7fffd4;
+  	box-shadow: 0px 0px 0px 5px #dfefff;
+  	border: dashed 2px white;
+  	padding: 0.2em 0.5em;
+	font-size: 20px;
 }
 
 .post__meta {
