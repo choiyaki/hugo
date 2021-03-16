@@ -638,6 +638,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
   	border-bottom: solid 3px black;
   	padding-bottom: 5px;
 	padding: 0.8rem 0.8rem;
+	font-size: 20px;
 	font-size: 1.5rem;
 }
 
