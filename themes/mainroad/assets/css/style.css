@@ -633,11 +633,24 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	vertical-align: middle;
 }
 
+.post__title:before {
+  content: '';
+  position: absolute;
+  bottom: -15px;
+  display: inline-block;
+  width: 60px;
+  height: 5px;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+  background-color: #008080;
+  border-radius: 2px;
+}
 .post__title {
 	margin: 0;
-	padding: 1rem 1.2rem;
-	background: #008080;
-	color: white;
+ 	position: relative;
+	display: inline-block;
+	margin-bottom: 1em;
 }
 
 .post__meta {
