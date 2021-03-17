@@ -16,10 +16,10 @@
 		</figure>
 		{{- end }}
 		{{- partial "post_toc.html" . -}}
-		<div class="content post__content clearfix">
+		<div class="content post__content clearfix">	
+			{{- if .Params.categories }}{{- if .Params.tags }}
 			{{ .Content }}
-			{{- partial "related.html" . -}}	
-			{{- if .Params.tags }}	
+			{{- partial "related.html" . -}}
 		</div>
 		<footer class="post__footer">
 			{{ partial "post_tags.html" . }}

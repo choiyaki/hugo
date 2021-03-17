@@ -424,8 +424,8 @@ select {
 }
 
 .logo__title {
-	font-size: 30px;
-	font-size: 2rem;
+	font-size: 28px;
+	font-size: 1.8rem;
 	font-weight: 700;
 	line-height: 1;
 	color: #000;
