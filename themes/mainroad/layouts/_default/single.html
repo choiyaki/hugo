@@ -3,7 +3,6 @@
 	<article class="post">
 		<header class="post__header">
 			<h1 class="post__title">{{ .Title }}</h1>
-			{{- with .Params.categories }}
 			{{- if .Params.tags }}
 			<p class="post__lead">{{ . }}</p>
 			{{- end }}
