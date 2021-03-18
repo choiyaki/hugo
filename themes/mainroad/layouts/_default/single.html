@@ -19,6 +19,7 @@
 		<div class="content post__content clearfix">	
 			{{ .Content }}
 			{{- partial "related.html" . -}}
+			{{- if .Params.tags }}
 		</div>
 		<footer class="post__footer">
 			{{ partial "post_tags.html" . }}
