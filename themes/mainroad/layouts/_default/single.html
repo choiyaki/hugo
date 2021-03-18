@@ -4,6 +4,7 @@
 		<header class="post__header">
 			<h1 class="post__title">{{ .Title }}</h1>
 			{{- with .Params.categories }}
+			{{- if .Params.tags }}
 			<p class="post__lead">{{ . }}</p>
 			{{- end }}
 			{{ with partial "post_meta.html" . -}}
@@ -19,7 +20,6 @@
 		<div class="content post__content clearfix">	
 			{{ .Content }}
 			{{- partial "related.html" . -}}
-			{{- if .Params.tags }}
 		</div>
 		<footer class="post__footer">
 			{{ partial "post_tags.html" . }}
