@@ -18,13 +18,14 @@
 		{{- partial "post_toc.html" . -}}
 		<div class="content post__content clearfix">	
 			{{- if .Params.categories }}
-			{{ if .Params.tags }}
+			{{- if .Params.tags }}
 			{{ .Content }}
 			{{- partial "related.html" . -}}
 		</div>
 		<footer class="post__footer">
 			{{ partial "post_tags.html" . }}
 		</footer>
+		{{- end }}
 		{{- end }}
 	</article>
 </main>
