@@ -19,9 +19,8 @@
 		{{- partial "post_toc.html" . -}}
 		<div class="content post__content clearfix">	
 			{{ .Content }}
-			{{ with .Params.categories }}
 			{{- partial "related.html" . -}}
-			{{- if .Params.tags }}
+			{{- if .Params.categories }}
 		</div>
 		<footer class="post__footer">
 			{{ partial "post_tags.html" . }}
