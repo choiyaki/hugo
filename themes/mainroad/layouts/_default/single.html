@@ -20,6 +20,7 @@
 		<div class="content post__content clearfix">	
 			{{ .Content }}
 			{{- partial "related.html" . -}}
+			<a class="more-btn" href="/categories/{{ index .Params.categories 0 }}/">{{ index .Params.categories 0 }}</a>
 			{{- if .Params.tags }}
 		</div>
 		<footer class="post__footer">
