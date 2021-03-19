@@ -20,18 +20,14 @@
 		<div class="content post__content clearfix">	
 			{{ .Content }}
 			{{- partial "related.html" . -}}
+			{{ if and (.Params.categories) }}
+				{{ $c := index .Params.categories 0 }}
+      		<a class="more-btn" href="/categories/{{ $c }}/">{{ $c }}</a>  </div>
+			{{ end }}
 			{{- if .Params.tags }}
 		</div>
 		<footer class="post__footer">
 			{{ partial "post_tags.html" . }}
-			
-			
-			{{ if and (.Params.categories) }}
-				{{ $c := index .Params.categories 0 }}
-  		<div class="same-category-posts-area">
-      		<a class="more-btn" href="/categories/{{ $c }}/">{{ $c }}</a>  </div>
-			{{ end }}
-
 		</footer>
 		{{- end }}
 	</article>
