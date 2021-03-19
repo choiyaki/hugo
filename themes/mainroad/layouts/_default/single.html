@@ -29,15 +29,7 @@
 			{{ if and (.Params.categories) }}
   {{ $c := index .Params.categories 0 }}
   <div class="same-category-posts-area">
-    <h2>Posts in "{{ $c }}" category</h2>
-    {{ $cposts := index .Site.Taxonomies.categories (lower $c) }}
-    {{ range $cposts }}
-      {{ .Render "li" }}
-    {{ end }}
-    {{ if gt (len $cposts) 5 }}
-      <a class="more-btn" href="/categories/{{ lower $c }}/">more ...</a>
-    {{ else }}
-      <a class="more-btn" href="/categories/">other categories</a>
+      <a class="more-btn" href="/categories/{{ $c }}/">{{ $c }}</a>
     {{ end }}
   </div>
 {{ end }}
