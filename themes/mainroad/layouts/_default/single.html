@@ -8,6 +8,10 @@
 			<p class="post__lead">{{ . }}</p>
 			{{- end }}
 			{{ with partial "post_meta.html" . -}}
+			{{ if and (.Params.categories) }}
+				{{ $c := index .Params.categories 0 }}
+      		<a class="more-btn" href="/categories/{{ $c }}/">●{{ $c }}</a>  </div>
+			{{ end }}
 			<div class="post__meta meta">{{ . }}</div>
 			{{- end }}
 		</header>
@@ -20,14 +24,10 @@
 		<div class="content post__content clearfix">	
 			{{ .Content }}
 			{{- partial "related.html" . -}}
-			{{ if and (.Params.categories) }}
-				{{ $c := index .Params.categories 0 }}
-      		<a class="more-btn" href="/categories/{{ $c }}/">●{{ $c }}</a>  </div>
-			{{ end }}
 			{{- if .Params.tags }}
-			{{ partial "post_tags.html" . }}
 		</div>
 		<footer class="post__footer">
+			{{ partial "post_tags.html" . }}
 		</footer>
 		{{- end }}
 	</article>
