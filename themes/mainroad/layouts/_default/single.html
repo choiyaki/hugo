@@ -27,13 +27,10 @@
 			
 			
 			{{ if and (.Params.categories) }}
-  {{ $c := index .Params.categories 0 }}
-  <div class="same-category-posts-area">
-      <a class="more-btn" href="/categories/{{ $c }}/">{{ $c }}</a>
-    {{ end }}
-  </div>
-{{ end }}
-
+				{{ $c := index .Params.categories 0 }}
+  		<div class="same-category-posts-area">
+      		<a class="more-btn" href="/categories/{{ $c }}/">{{ $c }}</a>  </div>
+			{{ end }}
 
 		</footer>
 		{{- end }}
