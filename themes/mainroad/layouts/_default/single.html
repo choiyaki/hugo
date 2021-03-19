@@ -25,9 +25,9 @@
       		<a class="more-btn" href="/categories/{{ $c }}/">●{{ $c }}</a>  </div>
 			{{ end }}
 			{{- if .Params.tags }}
+			{{ partial "post_tags.html" . }}
 		</div>
 		<footer class="post__footer">
-			{{ partial "post_tags.html" . }}
 		</footer>
 		{{- end }}
 	</article>
