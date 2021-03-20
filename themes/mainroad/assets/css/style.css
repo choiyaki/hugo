@@ -752,6 +752,41 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	list-style: none;
 }
 
+a.more-btn {
+  border: 2px solid #000;
+  border-radius: 0;
+  background: #fff;
+
+  -webkit-transform-style: preserve-3d;
+
+  transform-style: preserve-3d;
+}
+
+a.more-btn:before {
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  width: 5px;
+  height: 100%;
+
+  content: '';
+  -webkit-transition: all .3s;
+  transition: all .3s;
+
+  background: #000;
+}
+
+a.more-btn:hover {
+  color: #fff;
+  background: #000;
+}
+
+a.more-btn:hover:before {
+  background: #fff;
+}
+
+
 .tags__item {
 	float: left;
 	margin: 0 6px 6px 0;
