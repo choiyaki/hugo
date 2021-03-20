@@ -636,7 +636,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .post__title {
 	/*線の種類（実線） 太さ 色*/
   	border-bottom: solid 3px black;
-  	padding-bottom: 5px;
+  	/*padding-bottom: 5px;*/
 	padding: 0.8rem 0.8rem;
 	font-size: 20px;
 	font-size: 1.5rem;
@@ -754,6 +754,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 .button-area {
 	text-align: right;
+	padding-right: 30px
 }
 .button-area a {
 	display: inline-block;
@@ -762,12 +763,12 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .more-btn,
 a.more-btn {
   color: #fff;
-  background-color: #eb6100;
+  background-color: #008080;
 }
 .more-btn:hover,
 a.more-btn:hover {
   color: #fff;
-  background: #f56500;
+  background: #000000;
 }
 
 
@@ -878,7 +879,7 @@ a.more-btn:hover {
 }
 
 .authorbox__header {
-	margin-bottom: 10px;
+	margin-bottom: 0px;
 }
 
 .authorbox__name {
