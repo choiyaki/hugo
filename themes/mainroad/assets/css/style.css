@@ -52,7 +52,7 @@ body {
 	margin: 0;
 	font-family: {{ $fontFamilyPrimary }};
 	font-size: 16px;
-	font-size: .875rem;
+	font-size: 1rem;
 	line-height: 1.6;
 	word-wrap: break-word;
 	background: #f7f7f7;
@@ -1272,8 +1272,8 @@ textarea {
 	}
 
 	.logo__title {
-		font-size: 24px;
-		font-size: 1.5rem;
+		font-size: 22px;
+		font-size: 1.4rem;
 	}
 
 	.sidebar {
@@ -1334,8 +1334,8 @@ textarea {
 	}
 
 	.list__title {
-		font-size: 16px;
-		font-size: 1rem;
+		font-size: 25px;
+		font-size: 1.5rem;
 	}
 
 	.list__lead {
