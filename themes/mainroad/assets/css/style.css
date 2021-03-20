@@ -157,8 +157,8 @@ h3,
 h4,
 h5,
 h6 {
-	margin: 0 0 20px;
-	margin: 0 0 1.25rem;
+	margin: 0 0 10px;
+	margin: 0 0 0.5rem;
 	font-weight: 700;
 	line-height: 1.3;
 	color: #000;
@@ -582,8 +582,8 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 /* Posts/Pages */
 .post__header,
 .main__header {
-	margin-bottom: 20px;
-	margin-bottom: 1.25rem;
+	margin-bottom: 10px;
+	margin-bottom: 0.5rem;
 }
 
 .main__title {
@@ -754,7 +754,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 .button-area {
 	text-align: right;
-	padding-right: 30px
+	padding-right: 20px
 }
 .button-area a {
 	display: inline-block;
