@@ -762,7 +762,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
   transform-style: preserve-3d;
 }
 
-.more-btn:before {
+header more-btn:before {
   position: absolute;
   top: 0;
   left: 0;
@@ -777,12 +777,12 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
   background: #000;
 }
 
-.more-btn:hover {
+header more-btn:hover {
   color: #fff;
   background: #000;
 }
 
-.more-btn:hover:before {
+header more-btn:hover:before {
   background: #fff;
 }
 
