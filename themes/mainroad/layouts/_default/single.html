@@ -11,7 +11,7 @@
 			{{- end }}
 			{{ if and (.Params.categories) }}
 				{{ $c := index .Params.categories 0 }}
-      		<a class="more-btn" href="/categories/{{ $c }}/">{{ $c }}</a>
+      		<a class="btn btn--orange" href="/categories/{{ $c }}/">{{ $c }}</a>
 			{{ end }}
 		</header>
 		{{- if .Params.thumbnail }}

@@ -752,38 +752,15 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	list-style: none;
 }
 
-.more-btn {
-  border: 2px solid #000;
-  border-radius: 0;
-  background: #fff;
-
-  -webkit-transform-style: preserve-3d;
-
-  transform-style: preserve-3d;
-}
-
-header more-btn:before {
-  position: absolute;
-  top: 0;
-  left: 0;
-
-  width: 5px;
-  height: 100%;
-
-  content: '';
-  -webkit-transition: all .3s;
-  transition: all .3s;
-
-  background: #000;
-}
-
-header more-btn:hover {
+.btn--orange,
+a.btn--orange {
   color: #fff;
-  background: #000;
+  background-color: #eb6100;
 }
-
-header more-btn:hover:before {
-  background: #fff;
+.btn--orange:hover,
+a.btn--orange:hover {
+  color: #fff;
+  background: #f56500;
 }
 
 
