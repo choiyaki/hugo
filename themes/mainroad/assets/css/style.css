@@ -752,7 +752,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	list-style: none;
 }
 
-a.more-btn {
+.more-btn {
   border: 2px solid #000;
   border-radius: 0;
   background: #fff;
@@ -762,7 +762,7 @@ a.more-btn {
   transform-style: preserve-3d;
 }
 
-a.more-btn:before {
+.more-btn:before {
   position: absolute;
   top: 0;
   left: 0;
@@ -777,12 +777,12 @@ a.more-btn:before {
   background: #000;
 }
 
-a.more-btn:hover {
+.more-btn:hover {
   color: #fff;
   background: #000;
 }
 
-a.more-btn:hover:before {
+.more-btn:hover:before {
   background: #fff;
 }
 
