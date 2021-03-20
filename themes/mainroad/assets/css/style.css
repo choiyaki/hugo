@@ -752,13 +752,20 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	list-style: none;
 }
 
-.btn--orange,
-a.btn--orange {
+.button-area {
+	text-align: right;
+}
+.button-area a {
+	display: inline-block;
+}
+
+.more-btn,
+a.more-btn {
   color: #fff;
   background-color: #eb6100;
 }
-.btn--orange:hover,
-a.btn--orange:hover {
+.more-btn:hover,
+a.more-btn:hover {
   color: #fff;
   background: #f56500;
 }
