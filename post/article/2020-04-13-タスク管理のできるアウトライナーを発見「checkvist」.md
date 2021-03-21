@@ -5,7 +5,7 @@ type: post
 date: 2020-04-13T13:48:48+00:00
 url: /?p=1027
 views:
-  - 567
+  - 568
 categories:
   - タスク管理
 

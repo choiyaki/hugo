@@ -5,7 +5,7 @@ type: post
 date: 2020-01-08T21:36:37+00:00
 url: /?p=820
 views:
-  - 628
+  - 631
 categories:
   - iPad
 

@@ -5,7 +5,7 @@ type: post
 date: 2020-12-29T14:22:02+00:00
 url: /?p=1127
 views:
-  - 414
+  - 415
 categories:
   - Obsidian
 
