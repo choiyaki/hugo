@@ -10,17 +10,10 @@ categories:
   - 未分類
 
 ---
+## 「はじめまして」と、choiyakiとこのブログについて
+
 はじめましての方も、旧ブログをお読みいただいてた方も、みなさんひっくるめてこちらでははじめまして。  
 choiyakiともうします。
-
-長いこと、「はてなダイアリー」にて[ブログを書き続けてきました][1]。  
-「はてなダイアリー」でブログをはじめるとき、右も左もわからなかったぼくは、いろいろとブログのはじめ方の情報を集めていました。  
-最終的には「はてなダイアリー」に落ち着いたのですが、情報収集中気になったのが「WordPress」なるもの。  
-いきなりWordPressにてブログをはじめるのは、はじめ方を解説しているサイトを読むと「む、むずかしそう。。。」ってなってあきらめたのですが、いつかは「WordPress」でブログ書くんだ、と思っていました。  
-そしてようやく、実現しました。うれしい限りです。
-
-新天地で心機一転なんやかんや書いていこうと思います。  
-ご挨拶として、簡単に自己紹介を。
 
 ## choiyakiとこのブログについて
 
@@ -53,9 +46,6 @@ iPhoneと本と数学となんやかんやと過ごすなかで学んだこと�
 
 これまで6年近くブログを続けることができているのは、書くことが楽しいのと、読んでいただけていること。  
 今後もちらほらと書いていきますので、どうぞよろしくお願いいたします。
-
-ぜひぜひ登録お願いしますー  
-<a href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fchoiyaki.com%2F%3Ffeed%3Drss2'  target='blank'><img id='feedlyFollow' src='https://i2.wp.com/s3.feedly.com/img/follows/feedly-follow-rectangle-flat-big_2x.png?resize=131%2C56' alt='follow us in feedly' width='131' height='56'  data-recalc-dims="1" /></a>
 
  [1]: http://d.hatena.ne.jp/choiyaki/
  [2]: https://twitter.com/choiyaki
