@@ -8,7 +8,7 @@ views:
   - 1347
 categories:
   - メモ・ノート
-
+tags: ["Evernote","知的生産","書くこと"]
 ---
 アクティブなメモ、うんじゃかんじゃしたいメモは、アウトライナーにため込んで、他のメモたちと組み合わせながら育てる。ブログなどの形で一応のまとまりを見せたら、Evernoteにアーカイブする、という流れで、アウトライナー（WorkFlowy）とEvernoteを使い分けております。最近この話題ばっかりですが。
 
@@ -32,50 +32,7 @@ Evernoteが、自分が忘れ去ってしまっている過去記事やメモへ
 
 > 一年もたてば、自分でもなんのことかわからなくなるものだ。自分というものは、時間がたてば他人とおなじだ、ということもわすれてはならない。
 
-<div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
-  <div class="booklink-image" style="float:left;margin:0 15px 10px 0;">
-    <a href="http://www.amazon.co.jp/exec/obidos/asin/4004150930/choiyaki81-22/" name="booklink" rel="nofollow" target="_blank"><img src="https://i1.wp.com/ecx.images-amazon.com/images/I/41Q9KKMZYAL._SL160_.jpg?w=660" style="border: none;" data-recalc-dims="1" /></a>
-  </div>
-  
-  <div class="booklink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
-    <div class="booklink-name" style="margin-bottom:10px;line-height:120%">
-      <a href="http://www.amazon.co.jp/exec/obidos/asin/4004150930/choiyaki81-22/" name="booklink" rel="nofollow" target="_blank">知的生産の技術 (岩波新書)</a></p> 
-      
-      <div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">
-        posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a>
-      </div>
-    </div>
-    
-    <div class="booklink-detail" style="margin-bottom:5px;">
-      梅棹 忠夫 岩波書店 1969-07-21
-    </div>
-    
-    <div class="booklink-link2" style="margin-top:10px;">
-      <div class="shoplinkamazon" style="margin:5px 0">
-        <a href="http://www.amazon.co.jp/exec/obidos/asin/4004150930/choiyaki81-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a>
-      </div>
-      
-      <div class="shoplinkrakuten" style="margin:5px 0">
-        <a href="http://pt.afl.rakuten.co.jp/c/0dd4351c.1df7e938/?url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F58932%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a>
-      </div>
-      
-      <div class="shoplinkbk1" style="margin:5px 0">
-        <a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2771986&#038;pid=880019974&#038;vc_url=http%3A%2F%2Fhonto.jp%2Fnetstore%2Fsearch_021_104004150930.html%3Fsrchf%3D1%26srchGnrNm%3D1" target="_blank" title="bk1" >honto<img loading="lazy" src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2771986&#038;pid=880019974" height="1" width="1" border="0" /></a>
-      </div>
-      
-      <div class="shoplinkehon" style="margin:5px 0">
-        <a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2771986&#038;pid=880041723&#038;vc_url=http%3A%2F%2Fwww.e-hon.ne.jp%2Fbec%2FSA%2FDetail%3FrefISBN%3D4004150930" target="_blank" title="e-hon" >e-hon<img loading="lazy" src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2771986&#038;pid=880041723" height="1" width="1" border="0" /></a>
-      </div>
-      
-      <div class="shoplinktoshokan" style="margin:5px 0">
-        <a href="http://calil.jp/book/4004150930" rel="nofollow" target="_blank" title="図書館" >図書館</a>
-      </div>
-    </div>
-  </div>
-  
-  <div class="booklink-footer" style="clear: left">
-  </div>
-</div>
+[![](https://gyazo.com/5ab9f2c802c470e2ebc1192a0a0e0dbe)](http://www.amazon.co.jp/exec/obidos/asin/4004150930/choiyaki81-22/)
 
 ちゃんとした文章で、「他の人が読んでもわかるような」文章で、メモを残しておかなければいけない。自分というのは時間が経てば、他人と同じだから。そうしておかないと、読み返しても「ん？これどういう意味や？」ってなっちゃう。  
 でもそれが、「他の人が分かる形」に仕上げられているブログの文章であれば、内容をきれいさっぱり忘れていたとしても、読み返すと理解することができます。なんせそれは、「他の人が分かる形」にまで仕上げた、文章だから。
