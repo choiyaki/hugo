@@ -31,6 +31,7 @@ PDCAサイクルについて書かれているこの本では、まずは1日の
   <div class="booklink-footer" style="clear: left">
   </div>
 </div>
+</div>
 
 ## タスクシュート式＋デイリーPDCAノート
 
