@@ -8,7 +8,7 @@ views:
   - 24849
 categories:
   - ライフハック
-
+tags: ["手帳","PDCA","メモ・ノート","タスク管理"]
 ---
 手帳の使い方の基本的な方針は、[「デイリータスクリストに紙のノートを使う。タスクシュートを意識して。 」][1] にて書いた通りなのですが、そこに新たに、加えたことがあります。
 
@@ -32,16 +32,6 @@ PDCAサイクルについて書かれているこの本では、まずは1日の
     <div class="booklink-detail" style="margin-bottom:5px;">
       岡村拓朗 フォレスト出版 2017-01-07
     </div>
-    
-    <div class="booklink-link2" style="margin-top:10px;">
-      <div class="shoplinkkindle" style="display:inline;margin-right:5px">
-        <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01N0XPCKR/choiyaki81-22/" target="_blank" >Kindle</a>
-      </div>
-      
-      <div class="shoplinkamazon" style="display:inline;margin-right:5px">
-        <a href="http://www.amazon.co.jp/exec/obidos/ASIN/489451740X/choiyaki81-22/" target="_blank" >Amazon[書籍版]</a>
-      </div></p>
-    </div>
   </div>
   
   <div class="booklink-footer" style="clear: left">
@@ -56,7 +46,8 @@ PDCAサイクルについて書かれているこの本では、まずは1日の
 
 Planの部分は、その日の計画を書き込みます。具体的には、
 
-> 824.  
+> 824.
+> 
 > 1 Pのフレーム(左端)に時間軸を記入する  
 > 2 手帳から、今日の予定を転記する  
 > 3 手帳に書かれていないが、思いついた行動があれば追加記入する 
