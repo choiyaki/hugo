@@ -8,7 +8,7 @@ views:
   - 24849
 categories:
   - ライフハック
-tags: ["手帳","PDCA","メモ・ノート","タスク管理"]
+tags: ["手帳","PDCA","メモ・ノート","タスク管理","タスクシュート"]
 ---
 手帳の使い方の基本的な方針は、[「デイリータスクリストに紙のノートを使う。タスクシュートを意識して。 」][1] にて書いた通りなのですが、そこに新たに、加えたことがあります。
 
@@ -22,13 +22,7 @@ PDCAサイクルについて書かれているこの本では、まずは1日の
   
   <div class="booklink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
     <div class="booklink-name" style="margin-bottom:10px;line-height:120%">
-      <a href="http://www.amazon.co.jp/exec/obidos/asin/B01N0XPCKR/choiyaki81-22/" target="_blank" >自分を劇的に成長させる！ＰＤＣＡノート[Kindle版]</a></p> 
-      
-      <div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">
-        posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a>
-      </div>
-    </div>
-    
+      <a href="http://www.amazon.co.jp/exec/obidos/asin/B01N0XPCKR/choiyaki81-22/" target="_blank" >自分を劇的に成長させる！ＰＤＣＡノート[Kindle版]</a>
     <div class="booklink-detail" style="margin-bottom:5px;">
       岡村拓朗 フォレスト出版 2017-01-07
     </div>
