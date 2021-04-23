@@ -8,7 +8,7 @@ views:
   - 1954
 categories:
   - Scrapbox
-
+tags: ["Scrapbox","書くこと","知的生産"]
 ---
 [Scrapbox][1]をしばらく使っていて、だんだんとその立ち位置のようなものが見えてきました。
 

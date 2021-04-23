@@ -87,4 +87,5 @@ GTDはボトムアップ。とにかくボトムアップです。
     </div>
   <div class="booklink-footer" style="clear: left">
   </div>
+  </div>
 </div>
