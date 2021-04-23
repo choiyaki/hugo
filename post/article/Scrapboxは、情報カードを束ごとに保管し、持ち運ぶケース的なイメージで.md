@@ -8,7 +8,7 @@ views:
   - 3296
 categories:
   - Scrapbox
-
+tags: ["Scrapbox","情報カード","知的生産"]
 ---
 [PoICを名刺サイズ情報カードで実践すると、蓄積は「発見」のみに][1]
 

@@ -8,7 +8,7 @@ views:
   - 40627
 categories:
   - ライフハック
-
+tags: ["GTD","タスク管理"]
 ---
 <img src="https://i0.wp.com/gyazo.com/57218ac0575d9db7673a9fce4b6eb336.jpg?w=660&#038;ssl=1" alt=" " data-recalc-dims="1" />
 
@@ -79,28 +79,12 @@ GTDはボトムアップ。とにかくボトムアップです。
   
   <div class="booklink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
     <div class="booklink-name" style="margin-bottom:10px;line-height:120%">
-      <a href="http://www.amazon.co.jp/exec/obidos/asin/4576082116/choiyaki81-22/" target="_blank" >はじめてのGTD ストレスフリーの整理術</a></p> 
-      
-      <div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">
-        posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a>
-      </div>
+      <a href="http://www.amazon.co.jp/exec/obidos/asin/4576082116/choiyaki81-22/" target="_blank" >はじめてのGTD ストレスフリーの整理術</a>
     </div>
     
     <div class="booklink-detail" style="margin-bottom:5px;">
       デビッド・アレン 二見書房 2008-12-24
     </div>
-    
-    <div class="booklink-link2" style="margin-top:10px;">
-      <div class="shoplinkamazon" style="display:inline;margin-right:5px">
-        <a href="http://www.amazon.co.jp/exec/obidos/asin/4576082116/choiyaki81-22/" target="_blank" >Amazon</a>
-      </div>
-      
-      <div class="shoplinkkindle" style="display:inline;margin-right:5px">
-        <a href="http://www.amazon.co.jp/gp/search?keywords=%82%CD%82%B6%82%DF%82%C4%82%CCGTD%20%83X%83g%83%8C%83X%83t%83%8A%81%5B%82%CC%90%AE%97%9D%8Fp&#038;__mk_ja_JP=%83J%83%5E%83J%83i&#038;url=node%3D2275256051&#038;tag=choiyaki81-22" target="_blank" >Kindle</a>
-      </div></p>
-    </div>
-  </div>
-  
   <div class="booklink-footer" style="clear: left">
   </div>
 </div>
