@@ -8,7 +8,7 @@ views:
   - 2057
 categories:
   - メモ・ノート
-
+tags: ["着想メモ","Workflowy","情報カード","Scrapbox"]
 ---
 iPhoneに求めるメモとは？について考える。
 
