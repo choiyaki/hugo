@@ -8,6 +8,7 @@ views:
   - 2539
 categories:
   - メモ・ノート
+tags: ["Textwell","メモ・ノート","着想メモ"]
 
 ---
 「Carta」という[Textwell][1]のアクションを使い始めてる。

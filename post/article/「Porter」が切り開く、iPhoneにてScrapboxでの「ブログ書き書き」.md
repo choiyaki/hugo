@@ -8,6 +8,7 @@ views:
   - 3445
 categories:
   - iPhone
+tags: ["Porter","Scrapbox","書くこと"]
 
 ---
 最近、iPhoneでブログを書くことが多い。というのも、
