@@ -8,6 +8,7 @@ views:
   - 1425
 categories:
   - Scrapbox
+tags: ["Scrapbox"]
 
 ---
 ぼくの中で、今、最もお世話になっているのが、「Scrapbox」。  
