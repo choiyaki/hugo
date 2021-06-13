@@ -8,6 +8,7 @@ views:
   - 3590
 categories:
   - Scrapbox
+tags: ["Scrapbox","読書","知的生産"]
 
 ---
   * [ぼくのScrapboxの使い方 その1〜ざっくり全体像を〜][1]

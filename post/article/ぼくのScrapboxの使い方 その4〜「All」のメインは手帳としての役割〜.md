@@ -8,6 +8,7 @@ views:
   - 38281
 categories:
   - Scrapbox
+tags: ["Scrapbox","手帳","メモ・ノート"]
 
 ---
   * <a href="https://choiyaki.com/?p=556" draggable="false">ぼくのScrapboxの使い方 その1〜ざっくり全体像を〜</a>
