@@ -8,6 +8,9 @@ views:
   - 5771
 categories:
   - プチ書評
+tags: 
+  - 意志力
+  - 継続
 
 ---
 「<a target="_blank" href="https://www.amazon.co.jp/gp/product/4478064806/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4478064806&linkCode=as2&tag=choiyaki81-22&linkId=01ad03fd46eb4228b815fe3c5cb47a16" rel="noopener noreferrer">やり抜く力 GRIT(グリット)――人生のあらゆる成功を決める「究極の能力」を身につける</a><img loading="lazy" src="//ir-jp.amazon-adsystem.com/e/ir?t=choiyaki81-22&l=am2&o=9&a=4478064806" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />」をオーディオブックで視聴。なかなかにおもしろい。

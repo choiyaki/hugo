@@ -7,7 +7,11 @@ url: /?p=634
 views:
   - 1194
 categories:
-  - iPhone
+  - iPad
+tags: 
+  - 勉強
+  - 数学
+  - iPad
 
 ---
 [数検の1級合格を目標に、][1]毎日ちまちまと勉強をしています。  
