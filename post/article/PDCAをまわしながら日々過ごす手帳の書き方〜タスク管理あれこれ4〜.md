@@ -3,9 +3,9 @@ title: PDCAをまわしながら日々過ごす手帳の書き方〜タスク管
 author: choiyaki
 type: post
 date: 2017-07-30T00:19:48+00:00
-url: /p379
+url: /?p=379
 aliases: 
-  - /\?p\=379
+  - /p379
 views:
   - 24849
 categories:
