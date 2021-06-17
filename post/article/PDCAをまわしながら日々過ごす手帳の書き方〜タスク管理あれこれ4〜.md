@@ -4,6 +4,8 @@ author: choiyaki
 type: post
 date: 2017-07-30T00:19:48+00:00
 url: /?p=379
+aliases: 
+  - /p3790
 views:
   - 24849
 categories:
