@@ -5,7 +5,7 @@ type: post
 date: 2017-07-30T00:19:48+00:00
 url: /p379
 aliases: 
-  - /?p=379
+  - /\?p\=379
 views:
   - 24849
 categories:
