@@ -1,5 +1,5 @@
 # baseURL = "http://example.org/"
-baseURL = "https://choiyaki.com/"
+baseURL = "https://choiyaki.netlify.app/"
 languageCode = "ja"
 # title = "choiyakiBlog"
 title = "iPhoneと本と数学となんやかんやと"
