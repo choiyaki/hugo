@@ -1,5 +1,5 @@
 ---
-title: '<p>iPad用にMagic Mouse2を購入<br />'
+title: iPad用にMagic Mouse2を購入
 author: choiyaki
 type: post
 date: 2020-04-29T12:26:54+00:00

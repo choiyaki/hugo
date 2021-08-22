@@ -1,5 +1,5 @@
 ---
-title: '<p>iPhoneではショートカットと 1Writerを用いて、Obsidianのデイリーページへ一発アクセス<br />'
+title: iPhoneではショートカットと 1Writerを用いて、Obsidianのデイリーページへ一発アクセス
 author: choiyaki
 type: post
 date: 2020-12-29T14:22:02+00:00

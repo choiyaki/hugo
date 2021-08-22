@@ -1,5 +1,5 @@
 ---
-title: '<p>キーボードでなんだってできるlist making tool〜checkvistの使い方1〜<br />'
+title: キーボードでなんだってできるlist making tool〜checkvistの使い方1〜
 author: choiyaki
 type: post
 date: 2020-04-14T13:25:44+00:00

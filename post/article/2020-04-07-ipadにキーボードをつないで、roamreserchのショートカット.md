@@ -1,5 +1,5 @@
 ---
-title: '<p>iPadにキーボードをつないで、RoamReserchのショートカットを調べてみた<br />'
+title: iPadにキーボードをつないで、RoamReserchのショートカットを調べてみた
 author: choiyaki
 type: post
 date: 2020-04-07T14:47:36+00:00

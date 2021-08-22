@@ -1,5 +1,5 @@
 ---
-title: '<p>ページの書き換えを反映したいので、Obsidianのpublishを使い始めた<br />'
+title: ページの書き換えを反映したいので、Obsidianのpublishを使い始めた
 author: choiyaki
 type: post
 date: 2021-02-16T12:28:10+00:00

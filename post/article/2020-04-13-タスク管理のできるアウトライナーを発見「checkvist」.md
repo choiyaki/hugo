@@ -1,5 +1,5 @@
 ---
-title: '<p>タスク管理のできるアウトライナーを発見「checkvist」<br />'
+title: タスク管理のできるアウトライナーを発見「checkvist」
 author: choiyaki
 type: post
 date: 2020-04-13T13:48:48+00:00

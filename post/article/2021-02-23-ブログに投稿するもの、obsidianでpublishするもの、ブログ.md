@@ -1,5 +1,5 @@
 ---
-title: '<p>ブログに投稿するもの、Obsidianでpublishするもの、ブログに投稿してObsidianでもpublishするもの〜その１〜<br />'
+title: ブログに投稿するもの、Obsidianでpublishするもの、ブログに投稿してObsidianでもpublishするもの〜その１〜
 author: choiyaki
 type: post
 date: 2021-02-23T13:23:00+00:00
