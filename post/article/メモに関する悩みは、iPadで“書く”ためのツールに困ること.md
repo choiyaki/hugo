@@ -8,6 +8,9 @@ views:
   - 469
 categories:
   - メモ・ノート
+tags:
+  - iPad
+  - 書くこと
 
 ---
 メモをする。  
