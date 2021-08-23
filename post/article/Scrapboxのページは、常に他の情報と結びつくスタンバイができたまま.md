@@ -8,6 +8,9 @@ views:
   - 467
 categories:
   - Scrapbox
+tags:
+  - Scrapbox
+  - 着想メモ
 
 ---
 iPadでは使いやすいとは言い難いものの、それでも<a href="https://scrapbox.io/choiyaki-hondana/Scrapbox" draggable="false">Scrapbox</a>はやはり他にないものをもっていて、かなりがっつり使ってる。  

@@ -8,6 +8,9 @@ views:
   - 659
 categories:
   - Evernote
+tags:
+  - Evernote
+  - 記録
 
 ---
 [Evernote][1]に放り込む情報は、基本的に他の媒体に書いたことのコピーでいい、と思っている。  
