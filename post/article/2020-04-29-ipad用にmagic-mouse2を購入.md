@@ -5,9 +5,12 @@ type: post
 date: 2020-04-29T12:26:54+00:00
 url: /?p=1059
 views:
-  - 575
+  - 675
 categories:
   - iPad
+tags:
+  - iPad
+  - 書くこと
 
 ---
 iOS13.4から正式にマウスとトラックパッドに対応し、ライブ変換ができるようになったiPad。  

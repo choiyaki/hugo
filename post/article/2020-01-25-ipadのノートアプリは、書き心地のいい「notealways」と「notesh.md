@@ -5,9 +5,14 @@ type: post
 date: 2020-01-25T11:39:48+00:00
 url: /?p=858
 views:
-  - 1200
+  - 1393
 categories:
   - iPad
+tags:
+  - iPad
+  - ノート
+  - 書くこと
+  - 知的生産
 
 ---
   * [iPad+Apple Pencilで、書きながらあれこれ考えるのが快適][1]

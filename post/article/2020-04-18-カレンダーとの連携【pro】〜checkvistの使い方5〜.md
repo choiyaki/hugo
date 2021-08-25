@@ -5,9 +5,13 @@ type: post
 date: 2020-04-18T13:57:15+00:00
 url: /?p=1040
 views:
-  - 552
+  - 738
 categories:
   - checkvist
+tags:
+  - checkvist
+  - たすくま
+  - タスク管理
 
 ---
 [checkvist][1]のProアカウントでは、「dd」によって実行日を設定したタスクを、カレンダーに表示することができます。具体的には、Macの標準アプリのカレンダーか、[Googleカレンダー][2]との連携が可能となっています。  

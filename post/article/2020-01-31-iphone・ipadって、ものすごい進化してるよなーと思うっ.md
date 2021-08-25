@@ -5,9 +5,11 @@ type: post
 date: 2020-01-31T14:10:18+00:00
 url: /?p=871
 views:
-  - 393
+  - 488
 categories:
   - iPhone
+tags:
+  - iPad
 
 ---
 [iPhone][1]を初めて使ったのは、3GS。[iPad][2]を初めて購入したのは、iPad2が発売されたとき。そのころから考えると、今のiPhone・iPadってすごいなーと。

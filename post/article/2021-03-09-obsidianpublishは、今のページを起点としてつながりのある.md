@@ -5,9 +5,13 @@ type: post
 date: 2021-03-09T13:13:40+00:00
 url: /?p=1191
 views:
-  - 216
+  - 455
 categories:
   - Obsidian
+tags:
+  - Obsidian
+  - Scrapbox
+  - 知的生産
 
 ---
   * [ブログに投稿するもの、Obsidianでpublishするもの、ブログに投稿してObsidianでもpublishするもの〜その１〜][1]

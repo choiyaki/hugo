@@ -5,9 +5,13 @@ type: post
 date: 2020-01-08T21:36:37+00:00
 url: /?p=820
 views:
-  - 631
+  - 876
 categories:
   - iPad
+tags:
+  - ノート
+  - 書くこと
+  - 考える
 
 ---
 [iPad][1]と[Apple Pencil][2]は、紙にペンと遜色ない文字が書けます。  

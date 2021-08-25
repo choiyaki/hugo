@@ -5,9 +5,13 @@ type: post
 date: 2020-04-25T12:24:05+00:00
 url: /?p=1048
 views:
-  - 601
+  - 726
 categories:
   - iPad
+tags:
+  - iPad
+  - ライフハック
+  - 書くこと
 
 ---
 自宅では[iMac][1]を使っていて、6  

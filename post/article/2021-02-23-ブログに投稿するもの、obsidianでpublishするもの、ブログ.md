@@ -5,9 +5,14 @@ type: post
 date: 2021-02-23T13:23:00+00:00
 url: /?p=1178
 views:
-  - 129
+  - 410
 categories:
   - Obsidian
+tags:
+  - Obsidian
+  - Scrapbox
+  - 書くこと
+  - 知的生産
 
 ---
 Obsidianのpublishを利用して、これまでのメモをObsidianでどんどん公開していってる。

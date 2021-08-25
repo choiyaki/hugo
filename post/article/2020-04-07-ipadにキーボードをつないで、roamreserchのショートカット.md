@@ -5,9 +5,14 @@ type: post
 date: 2020-04-07T14:47:36+00:00
 url: /?p=1017
 views:
-  - 768
+  - 941
 categories:
   - iPad
+tags:
+  - iPad
+  - RoamResearch
+  - アウトライナー
+  - 知的生産
 
 ---
 [ごりゅごCast][1]の「[Scrapboxとアウトライナーのいいとこ取りしたようなサービス Roam Reserach][2]」を聞きました。  

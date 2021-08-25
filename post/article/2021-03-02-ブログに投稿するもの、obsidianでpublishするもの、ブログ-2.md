@@ -5,9 +5,13 @@ type: post
 date: 2021-03-02T10:04:43+00:00
 url: /?p=1183
 views:
-  - 136
+  - 395
 categories:
   - Obsidian
+tags:
+  - Obsidian
+  - ブログ
+  - 知的生産
 
 ---
   * [ブログに投稿するもの、Obsidianでpublishするもの、ブログに投稿してObsidianでもpublishするもの〜その１〜][1]

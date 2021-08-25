@@ -5,8 +5,13 @@ type: post
 date: 2020-01-13T02:30:04+00:00
 url: /?p=828
 views:
-  - 1334
+  - 1636
 categories:
+  - 手帳
+tags:
+  - iPad
+  - タスク管理
+  - ノート
   - 手帳
 
 ---

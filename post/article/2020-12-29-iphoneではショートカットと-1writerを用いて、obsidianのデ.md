@@ -5,9 +5,12 @@ type: post
 date: 2020-12-29T14:22:02+00:00
 url: /?p=1127
 views:
-  - 415
+  - 753
 categories:
   - Obsidian
+tags:
+  - Obsidian
+  - 手帳
 
 ---
 [Obsidian][1]をガッツリ使っています。  

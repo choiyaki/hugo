@@ -5,9 +5,16 @@ type: post
 date: 2020-04-14T13:25:44+00:00
 url: /?p=1029
 views:
-  - 465
+  - 562
 categories:
   - タスク管理
+tags:
+  - checkvist
+  - iPad
+  - アウトライナー
+  - エディタ
+  - タスク管理
+  - プロジェクト管理
 
 ---
 タスク管理のできるアウトライナー[checkvist][1]。

@@ -5,9 +5,14 @@ type: post
 date: 2021-02-16T12:28:10+00:00
 url: /?p=1173
 views:
-  - 149
+  - 329
 categories:
   - メモ・ノート
+tags:
+  - Obsidian
+  - Scrapbox
+  - メモ
+  - 知的生産
 
 ---
 「[book scrapbook][1]」をObsidianのpublishに移行しようかな、と考え始めた。

@@ -5,9 +5,12 @@ type: post
 date: 2020-04-21T12:15:47+00:00
 url: /?p=1042
 views:
-  - 502
+  - 643
 categories:
   - checkvist
+tags:
+  - checkvist
+  - アウトライナー
 
 ---
 [checkvist][1]には、モバイルアプリはないものの、モバイル専用のサイトが用意されています。
