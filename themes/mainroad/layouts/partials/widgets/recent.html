@@ -3,6 +3,15 @@
 
 {{- if $recent }}
 <div class="widget-recent widget">
+<h4>新着記事</h4>
+<ul>
+  {{ range first 5 .Site.RegularPages.ByDate.Reverse }}
+    <li>
+      <b><a href="{{.RelPermalink}}">{{.Title}}</a></b>
+      <time>{{.Date.Format "2006-01-02"}}</time>
+    </li>
+  {{ end }}
+</ul>
 	<h4 class="widget__title">{{ T "recent_title" }}</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
