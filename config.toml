@@ -7,6 +7,7 @@ contentDir = "post"
 disableKinds = ["RSS", "sitemap"]
 theme = "mainroad"
 publishDir = "docs"
+rssLimit = 20
 [taxonomies]
 category = "categories"
 tag = "tags"
@@ -18,6 +19,9 @@ tag = "tags"
 threshold = 80
 includeNewer = true
 toLower = false
+[outputs]
+  home = [ "HTML", "RSS" ]
+  page = [ "HTML", "AMP" ] # if you want AMP enable.
 
 [[related.indices]]
 name = "keywords"
