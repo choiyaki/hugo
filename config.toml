@@ -1,9 +1,8 @@
 baseURL = "https://choiyaki.com"
 languageCode = "ja"
-# title = "choiyakiBlog"
 title = "iPhoneと本と数学となんやかんやと"
 contentDir = "post"
-disableKinds = ["sitemap"]
+disableKinds = ["RSS" , "sitemap"]
 theme = "mainroad"
 publishDir = "docs"
 rssLimit = 20
