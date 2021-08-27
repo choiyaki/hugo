@@ -1,4 +1,3 @@
-# baseURL = "http://example.org/"
 baseURL = "https://choiyaki.com"
 languageCode = "ja"
 # title = "choiyakiBlog"
@@ -8,6 +7,12 @@ disableKinds = ["RSS", "sitemap"]
 theme = "mainroad"
 publishDir = "docs"
 rssLimit = 20
+copyright = "2021 Atsushi Yoshida All rights reserved"
+
+[author]
+	name = "choiyaki"
+	email = "choiyaki@gmail.com"
+
 [taxonomies]
 category = "categories"
 tag = "tags"
