@@ -25,8 +25,8 @@ threshold = 80
 includeNewer = true
 toLower = false
 [outputs]
-  home = [ "HTML", "RSS" ]
-  page = [ "HTML", "AMP" ] # if you want AMP enable.
+home = [ "HTML", "AMP", "RSS" ]
+page = [ "HTML", "AMP", "RSS" ] # if you want AMP enable.
 
 [[related.indices]]
 name = "keywords"
