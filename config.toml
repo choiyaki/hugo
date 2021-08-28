@@ -1,7 +1,7 @@
 baseURL = "https://choiyaki.com"
 languageCode = "ja"
 title = "iPhoneと本と数学となんやかんやと"
-contentDir = "post"
+# contentDir = "post"
 disableKinds = ["sitemap"]
 theme = "mainroad"
 publishDir = "docs"
@@ -35,6 +35,9 @@ weight = 100
 [[related.indices]]
 name = "date"
 weight = 10
+
+[params]
+mainSections = [ "0000" ]
 
 [Params.style.vars]
   highlightColor = "#008080" # Override highlight color

@@ -1,0 +1,20 @@
+<div class="blog-post">
+    {{ if .Params.featured_image }}
+        <a href="{{- .RelPermalink -}}"><img src="{{- .RelPermalink -}}{{- .Params.featured_image -}}" alt=""></a>
+    {{ end }}
+    <div class="blog-info">
+        <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+        <div class="blog-meta">
+        {{ .Date.Format "2006 年 01 月 02 日"}}
+        </div>
+
+        <div class="blog-summary">
+            {{ if .Summary }}
+            <p>
+                {{ .Summary }}
+                {{ if .Truncated }}<a href="{{- .RelPermalink -}}"> （続きを読む）</a>{{end}}
+            </p>
+            {{ end }}
+        </div>
+    </div>
+</div>
