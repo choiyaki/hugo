@@ -2,11 +2,23 @@ baseURL = "https://choiyaki.com"
 languageCode = "ja"
 title = "iPhoneと本と数学となんやかんやと"
 # contentDir = "post"
-disableKinds = ["sitemap"]
+paginate = 3
+# disableKinds = ["sitemap"]
 theme = "mainroad"
 publishDir = "docs"
 rssLimit = 20
 copyright = "2021 Atsushi Yoshida All rights reserved"
+DefaultContentLanguage = "ja"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
 
 [author]
 	name = "choiyaki"
@@ -38,6 +50,7 @@ weight = 10
 
 [Params]
   mainSections = ["post", "posts"]
+  description = "<your site description>"
 
 [Params.style.vars]
   highlightColor = "#008080" # Override highlight color
