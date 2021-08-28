@@ -36,8 +36,8 @@ weight = 100
 name = "date"
 weight = 10
 
-[params]
-mainSections = [ "0000" ]
+[Params]
+  mainSections = ["post", "posts"]
 
 [Params.style.vars]
   highlightColor = "#008080" # Override highlight color
