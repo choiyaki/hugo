@@ -2,8 +2,8 @@ baseURL = "https://choiyaki.com"
 languageCode = "ja"
 title = "iPhoneと本と数学となんやかんやと"
 # contentDir = "post"
-paginate = 5
-# disableKinds = ["sitemap"]
+paginate = 10
+# disableKinds. = ["sitemap"]
 theme = "mainroad"
 publishDir = "docs"
 rssLimit = 20
@@ -11,6 +11,8 @@ copyright = "2021 Atsushi Yoshida All rights reserved"
 DefaultContentLanguage = "ja"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
+summaryLength = 300
+hasCJKLanguage = true
 
 [menu]
 

@@ -214,7 +214,7 @@ a {
 }
 
 a:hover {
-	text-decoration: underline;
+	color: #000;
 }
 
 hr {
@@ -650,7 +650,8 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 .post__title {
 	/*線の種類（実線） 太さ 色*/
-  	border-bottom: solid 3px black;
+  	border-bottom: solid 2px #c9c3c3;
+  	border-top: solid 2px #c9c3c3;
   	/*padding-bottom: 5px;*/
 	padding: 0.8rem 0.8rem;
 	font-size: 25px;
@@ -694,8 +695,8 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .content a:hover,
 .warning a:hover,
 .authorbox__description a:hover {
-	color: {{ $highlightColor }};
-	text-decoration: underline;
+	color: #000;
+	/*text-decoration: underline;*/
 }
 
 .content .alignnone {
@@ -777,7 +778,6 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 .more-btn,
 a.more-btn {
-  /*color: #fff;*/
   background-color: #fff;
   color: #008080;
   border: 2px solid;
@@ -785,11 +785,15 @@ a.more-btn {
   font-size: 13px;
   display: inline-block;
   margin: 0 4px 4px 0;
+  border-radius: 5px;
 }
+
 .more-btn:hover,
 a.more-btn:hover {
-  color: #fff;
-  background: #008080;
+  color: #000;
+  /* background: #008080;*/
+  background-color: #fff;
+  border-color: #000;
   font-size: 13px;
   display: inline-block;
   margin: 0 4px 4px 0;
@@ -815,7 +819,7 @@ a.more-btn:hover {
 }
 
 .tags__badge {
-	float: left;
+	/*float: right;*/
 	width: 32px;
 	height: 32px;
 	padding: 8px;
@@ -918,7 +922,7 @@ a.more-btn:hover {
 	padding-bottom: 1.25rem;
 	margin-bottom: 20px;
 	margin-bottom: 1.25rem;
-	border-bottom: 1px solid #ebebeb;
+	/*border-bottom: 1px solid #000;*/
 }
 
 .list__header {
@@ -976,7 +980,7 @@ a.more-btn:hover {
 	padding-top: 25px;
 	padding-bottom: 25px;
 	margin-bottom: 25px;
-	border-bottom: 1px solid #ebebeb;
+	border-bottom: 2px solid #ebebeb;
 }
 
 .pager__subtitle {
@@ -1122,14 +1126,15 @@ textarea {
 
 .widget__item:before {
   content: '●';
-  color: black;
+  font-size: 13px;
+  color: {{ $highlightColor }};
   margin-right: 8px;
 }
 
 .widget__item {
 	display: block;
 	padding: 5px 0;
-	border-bottom: 1px dotted #ebebeb;
+	border-bottom: 2px dotted #ebebeb;
 }
 
 .widget__item:first-child {
@@ -1193,6 +1198,20 @@ textarea {
 	margin: 0 4px 8px 0;
 	font-size: 12px;
 	text-transform: none;
+	border-top-left-radius: 100vh;
+    border-bottom-left-radius: 100vh;
+    border-top-right-radius: 80px;
+    border-bottom-right-radius: 80px;
+    background-color: {{ $highlightColor }};
+}
+.widget-taglist__link:before {
+	content: "●";
+	margin-right: 8px;
+	margin-left: -4px;
+	font-size: 10px;
+}
+.widget-taglist__link:hover {
+  background-color: #000;
 }
 
 /* Languages Widget */
