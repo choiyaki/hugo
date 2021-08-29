@@ -3,7 +3,7 @@ title: iPadのノートアプリは、書き心地のいい「NoteAlways」と�
 author: choiyaki
 type: post
 date: 2020-01-25T11:39:48+00:00
-url: /?p=858
+url: /p858
 views:
   - 1393
 categories:

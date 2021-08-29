@@ -3,7 +3,7 @@ title: PoICを名刺サイズ情報カードで実践すると、蓄積は「発
 author: choiyaki
 type: post
 date: 2017-06-23T20:36:55+00:00
-url: /?p=367
+url: /p367
 views:
   - 4257
 categories:

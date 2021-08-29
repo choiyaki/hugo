@@ -3,7 +3,7 @@ title: Scrapboxのページは、常に他の情報と結びつくスタンバ�
 author: choiyaki
 type: post
 date: 2019-11-20T20:23:16+00:00
-url: /?p=698
+url: /p698
 views:
   - 467
 categories:

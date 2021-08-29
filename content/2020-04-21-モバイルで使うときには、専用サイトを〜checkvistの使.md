@@ -3,7 +3,7 @@ title: モバイルで使うときには、専用サイトを〜checkvistの使�
 author: choiyaki
 type: post
 date: 2020-04-21T12:15:47+00:00
-url: /?p=1042
+url: /p1042
 views:
   - 643
 categories:

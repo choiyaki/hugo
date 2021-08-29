@@ -3,7 +3,7 @@ title: Scrapbox × Honkure = book scrapbook
 author: choiyaki
 type: post
 date: 2017-12-12T20:28:59+00:00
-url: /?p=414
+url: /p414
 views:
   - 3387
 categories:

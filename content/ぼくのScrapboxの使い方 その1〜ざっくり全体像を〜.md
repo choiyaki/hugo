@@ -3,7 +3,7 @@ title: ぼくのScrapboxの使い方 その1〜ざっくり全体像を〜
 author: choiyaki
 type: post
 date: 2019-04-19T10:18:47+00:00
-url: /?p=556
+url: /p556
 views:
   - 1425
 categories:

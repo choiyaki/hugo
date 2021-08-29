@@ -3,7 +3,7 @@ title: Evernoteサブアカウント運用その2～iPhoneからEvernote快適�
 author: choiyaki
 type: post
 date: 2015-05-19T00:11:21+00:00
-url: /?p=119
+url: /p119
 views:
   - 1357
 categories:

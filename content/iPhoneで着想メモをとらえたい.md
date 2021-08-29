@@ -3,7 +3,7 @@ title: iPhoneで着想メモをとらえたい
 author: choiyaki
 type: post
 date: 2018-01-07T22:35:10+00:00
-url: /?p=428
+url: /p428
 views:
   - 2057
 categories:

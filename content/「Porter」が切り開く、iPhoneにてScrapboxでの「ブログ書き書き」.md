@@ -3,7 +3,7 @@ title: 「Porter」が切り開く、iPhoneにてScrapboxでの「ブログ書�
 author: choiyaki
 type: post
 date: 2018-04-28T10:08:03+00:00
-url: /?p=477
+url: /p477
 views:
   - 3445
 categories:

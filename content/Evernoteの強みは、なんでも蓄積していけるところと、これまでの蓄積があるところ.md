@@ -3,7 +3,7 @@ title: Evernoteの強みは、なんでも蓄積していけるところと、�
 author: choiyaki
 type: post
 date: 2019-03-11T21:16:34+00:00
-url: /?p=546
+url: /p546
 views:
   - 20504
 categories:

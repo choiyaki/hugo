@@ -3,7 +3,7 @@ title: iPadにApple純正のキーボード（JIS）をつないで使う
 author: choiyaki
 type: post
 date: 2020-04-25T12:24:05+00:00
-url: /?p=1048
+url: /p1048
 views:
   - 726
 categories:

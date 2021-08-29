@@ -3,7 +3,7 @@ title: 「共有」からEvernoteにデータを保存する、２種類の方�
 author: choiyaki
 type: post
 date: 2019-11-05T14:15:40+00:00
-url: /?p=656
+url: /p656
 views:
   - 522
 categories:

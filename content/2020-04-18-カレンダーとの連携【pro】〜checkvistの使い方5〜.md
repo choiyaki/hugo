@@ -3,7 +3,7 @@ title: カレンダーとの連携【Pro】〜checkvistの使い方5〜
 author: choiyaki
 type: post
 date: 2020-04-18T13:57:15+00:00
-url: /?p=1040
+url: /p1040
 views:
   - 738
 categories:

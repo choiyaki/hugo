@@ -3,7 +3,7 @@ title: 問題の反復練習には、スキャンしてiPadに取り込んでお
 author: choiyaki
 type: post
 date: 2019-10-29T09:29:08+00:00
-url: /?p=634
+url: /p634
 views:
   - 1194
 categories:

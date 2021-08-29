@@ -3,7 +3,7 @@ title: なぜ、手帳はiPad+Apple Pencilではなく、紙のノートを使�
 author: choiyaki
 type: post
 date: 2020-01-13T02:30:04+00:00
-url: /?p=828
+url: /p828
 views:
   - 1636
 categories:

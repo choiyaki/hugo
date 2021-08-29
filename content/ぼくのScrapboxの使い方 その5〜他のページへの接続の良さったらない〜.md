@@ -3,7 +3,7 @@ title: ぼくのScrapboxの使い方 その5〜他のページへの接続の良
 author: choiyaki
 type: post
 date: 2019-07-30T14:22:26+00:00
-url: /?p=578
+url: /p578
 views:
   - 2064
 categories:

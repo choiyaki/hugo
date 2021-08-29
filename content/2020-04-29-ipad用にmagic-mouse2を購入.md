@@ -3,7 +3,7 @@ title: iPad用にMagic Mouse2を購入
 author: choiyaki
 type: post
 date: 2020-04-29T12:26:54+00:00
-url: /?p=1059
+url: /p1059
 views:
   - 675
 categories:

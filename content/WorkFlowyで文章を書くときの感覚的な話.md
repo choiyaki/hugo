@@ -3,7 +3,7 @@ title: WorkFlowyで文章を書くときの感覚的な話
 author: choiyaki
 type: post
 date: 2016-08-31T09:00:02+00:00
-url: /?p=151
+url: /p151
 views:
   - 1393
 categories:

@@ -3,7 +3,7 @@ title: 板書計画やマインドマップとiPad+Apple Pencilの相性は抜�
 author: choiyaki
 type: post
 date: 2020-01-08T21:36:37+00:00
-url: /?p=820
+url: /p820
 views:
   - 876
 categories:

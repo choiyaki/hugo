@@ -3,7 +3,7 @@ title: 細かなメモは、Scrapboxにまかせることに
 author: choiyaki
 type: post
 date: 2019-11-24T20:28:52+00:00
-url: /?p=708
+url: /p708
 views:
   - 657
 categories:

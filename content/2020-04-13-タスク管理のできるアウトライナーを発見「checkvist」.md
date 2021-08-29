@@ -3,7 +3,7 @@ title: タスク管理のできるアウトライナーを発見「checkvist」
 author: choiyaki
 type: post
 date: 2020-04-13T13:48:48+00:00
-url: /?p=1027
+url: /p1027
 views:
   - 686
 categories:

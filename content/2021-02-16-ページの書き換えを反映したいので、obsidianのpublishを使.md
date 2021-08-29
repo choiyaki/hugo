@@ -3,7 +3,7 @@ title: ページの書き換えを反映したいので、Obsidianのpublishを�
 author: choiyaki
 type: post
 date: 2021-02-16T12:28:10+00:00
-url: /?p=1173
+url: /p1173
 views:
   - 329
 categories:

@@ -3,7 +3,7 @@ title: ObsidianPublishとブログの明確な境界線
 author: choiyaki
 type: post
 date: 2021-04-27T12:31:47+00:00
-url: /?p=1239
+url: /p1239
 views:
   - 324
 categories:

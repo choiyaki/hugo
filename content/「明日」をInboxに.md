@@ -3,7 +3,7 @@ title: 「明日」をInboxに
 author: choiyaki
 type: post
 date: 2019-10-21T13:37:22+00:00
-url: /?p=609
+url: /p609
 views:
   - 890
 categories:

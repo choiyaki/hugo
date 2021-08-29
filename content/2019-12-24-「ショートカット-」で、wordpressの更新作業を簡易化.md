@@ -3,7 +3,7 @@ title: 「ショートカット 」で、WordPressの更新作業を簡易化
 author: choiyaki
 type: post
 date: 2019-12-23T20:22:35+00:00
-url: /?p=776
+url: /p776
 views:
   - 956
 categories:

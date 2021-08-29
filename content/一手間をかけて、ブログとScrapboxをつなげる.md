@@ -3,7 +3,7 @@ title: 一手間をかけて、ブログとScrapboxをつなげる
 author: choiyaki
 type: post
 date: 2019-11-16T09:17:05+00:00
-url: /?p=684
+url: /p684
 views:
   - 503
 categories:

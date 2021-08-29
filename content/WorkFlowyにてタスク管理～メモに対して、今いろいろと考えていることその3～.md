@@ -3,7 +3,7 @@ title: WorkFlowyにてタスク管理～メモに対して、今いろいろと�
 author: choiyaki
 type: post
 date: 2014-12-20T23:35:54+00:00
-url: /?p=76
+url: /p76
 views:
   - 1243
 categories:

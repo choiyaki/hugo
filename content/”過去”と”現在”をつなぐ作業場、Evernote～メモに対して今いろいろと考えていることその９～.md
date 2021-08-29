@@ -3,7 +3,7 @@ title: ”過去”と”現在”をつなぐ作業場、Evernote～メモに�
 author: choiyaki
 type: post
 date: 2015-01-15T00:20:39+00:00
-url: /?p=99
+url: /p99
 views:
   - 1347
 categories:

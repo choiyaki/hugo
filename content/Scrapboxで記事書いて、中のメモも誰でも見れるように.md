@@ -3,7 +3,7 @@ title: Scrapboxで記事書いて、中のメモも誰でも見れるように
 author: choiyaki
 type: post
 date: 2018-04-19T13:24:00+00:00
-url: /?p=472
+url: /p472
 views:
   - 2261
 categories:

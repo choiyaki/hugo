@@ -3,7 +3,7 @@ title: ぼくのScrapboxの使い方 その2〜「choiyakiBox」着想メモ置�
 author: choiyaki
 type: post
 date: 2019-04-24T22:00:34+00:00
-url: /?p=565
+url: /p565
 views:
   - 2990
 categories:

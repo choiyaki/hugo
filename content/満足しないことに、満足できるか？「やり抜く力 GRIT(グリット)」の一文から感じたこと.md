@@ -3,7 +3,7 @@ title: 満足しないことに、満足できるか？「やり抜く力 GRIT(�
 author: choiyaki
 type: post
 date: 2019-10-26T09:09:16+00:00
-url: /?p=625
+url: /p625
 views:
   - 5771
 categories:

@@ -3,7 +3,7 @@ title: ObsidianMobileが「Obsidianの手入れ」を後押ししてくれる
 author: choiyaki
 type: post
 date: 2021-05-07T12:30:11+00:00
-url: /?p=1249
+url: /p1249
 views:
   - 717
 categories:

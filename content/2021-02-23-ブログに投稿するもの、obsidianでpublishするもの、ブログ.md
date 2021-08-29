@@ -3,7 +3,7 @@ title: ブログに投稿するもの、Obsidianでpublishするもの、ブロ�
 author: choiyaki
 type: post
 date: 2021-02-23T13:23:00+00:00
-url: /?p=1178
+url: /p1178
 views:
   - 410
 categories:

@@ -3,7 +3,7 @@ title: “ノートブック”としてBearが第一候補に
 author: choiyaki
 type: post
 date: 2019-11-13T12:38:03+00:00
-url: /?p=678
+url: /p678
 views:
   - 562
 categories:

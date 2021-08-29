@@ -3,7 +3,7 @@ title: 追い出して見返し、日付をふってGTDをまわす
 author: choiyaki
 type: post
 date: 2017-11-08T20:41:06+00:00
-url: /?p=409
+url: /p409
 views:
   - 40627
 categories:

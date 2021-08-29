@@ -3,7 +3,7 @@ title: iPhone・iPadって、ものすごい進化してるよなーと思うっ
 author: choiyaki
 type: post
 date: 2020-01-31T14:10:18+00:00
-url: /?p=871
+url: /p871
 views:
   - 488
 categories:

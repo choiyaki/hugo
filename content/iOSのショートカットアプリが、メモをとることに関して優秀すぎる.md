@@ -3,7 +3,7 @@ title: iOSのショートカットアプリが、メモをとることに関し�
 author: choiyaki
 type: post
 date: 2019-10-19T12:58:54+00:00
-url: /?p=588
+url: /p588
 views:
   - 1869
 categories:

@@ -3,7 +3,7 @@ title: Evernoteに放り込む上での、基本的方針
 author: choiyaki
 type: post
 date: 2019-11-15T14:43:22+00:00
-url: /?p=682
+url: /p682
 views:
   - 659
 categories:

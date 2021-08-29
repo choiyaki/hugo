@@ -3,7 +3,7 @@ title: Scrapboxは、情報カードを束ごとに保管し、持ち運ぶケ�
 author: choiyaki
 type: post
 date: 2017-10-18T22:50:27+00:00
-url: /?p=401
+url: /p401
 views:
   - 3296
 categories:

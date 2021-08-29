@@ -3,7 +3,7 @@ title: iPad+Apple Pencilで、書きながらあれこれ考えるのが快適
 author: choiyaki
 type: post
 date: 2020-01-11T04:12:27+00:00
-url: /?p=824
+url: /p824
 views:
   - 818
 categories:

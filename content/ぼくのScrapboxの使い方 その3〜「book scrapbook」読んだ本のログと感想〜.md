@@ -3,7 +3,7 @@ title: ぼくのScrapboxの使い方 その3〜「book scrapbook」読んだ本�
 author: choiyaki
 type: post
 date: 2019-05-03T07:58:51+00:00
-url: /?p=571
+url: /p571
 views:
   - 3590
 categories:

@@ -3,7 +3,7 @@ title: Scrapboxで、情報の再利用性を高めておく
 author: choiyaki
 type: post
 date: 2019-11-30T00:07:09+00:00
-url: /?p=719
+url: /p719
 views:
   - 618
 categories:

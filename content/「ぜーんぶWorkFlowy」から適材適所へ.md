@@ -3,7 +3,7 @@ title: 「ぜーんぶWorkFlowy」から適材適所へ
 author: choiyaki
 type: post
 date: 2018-01-04T21:20:56+00:00
-url: /?p=424
+url: /p424
 views:
   - 2042
 categories:

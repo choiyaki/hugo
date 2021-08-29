@@ -3,7 +3,7 @@ title: 「5×3情報カード＋A6情報カード」が、「WorkFlowy＋Evernot
 author: choiyaki
 type: post
 date: 2015-01-05T00:14:42+00:00
-url: /?p=94
+url: /p94
 views:
   - 1670
 categories:

@@ -3,7 +3,7 @@ title: Textwellアクション「Carta」を、着想メモ置き場に
 author: choiyaki
 type: post
 date: 2018-04-23T20:37:35+00:00
-url: /?p=474
+url: /p474
 views:
   - 2539
 categories:

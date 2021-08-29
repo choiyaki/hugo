@@ -3,7 +3,7 @@ title: WorkFlowy×43Foldersで、テキストメモをぜーんぶ集約～メ�
 author: choiyaki
 type: post
 date: 2014-12-22T23:43:15+00:00
-url: /?p=82
+url: /p82
 views:
   - 1174
 categories:

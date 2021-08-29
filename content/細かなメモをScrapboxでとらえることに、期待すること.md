@@ -3,7 +3,7 @@ title: 細かなメモをScrapboxでとらえることに、期待すること
 author: choiyaki
 type: post
 date: 2019-11-25T20:23:10+00:00
-url: /?p=710
+url: /p710
 views:
   - 588
 categories:

@@ -3,7 +3,7 @@ title: iPadにキーボードをつないで、RoamReserchのショートカッ�
 author: choiyaki
 type: post
 date: 2020-04-07T14:47:36+00:00
-url: /?p=1017
+url: /p1017
 views:
   - 941
 categories:

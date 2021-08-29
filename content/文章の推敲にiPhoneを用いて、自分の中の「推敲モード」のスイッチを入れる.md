@@ -3,7 +3,7 @@ title: 文章の推敲にiPhoneを用いて、自分の中の「推敲モード�
 author: choiyaki
 type: post
 date: 2016-08-21T21:00:07+00:00
-url: /?p=148
+url: /p148
 views:
   - 1271
 categories:

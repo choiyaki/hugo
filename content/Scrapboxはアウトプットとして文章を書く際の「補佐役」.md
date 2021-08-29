@@ -3,7 +3,7 @@ title: Scrapboxはアウトプットとして文章を書く際の「補佐役�
 author: choiyaki
 type: post
 date: 2017-12-31T03:00:59+00:00
-url: /?p=422
+url: /p422
 views:
   - 1954
 categories:

@@ -3,7 +3,7 @@ title: Inboxは、必ず自動的に見返すようなところに
 author: choiyaki
 type: post
 date: 2019-10-22T22:26:30+00:00
-url: /?p=614
+url: /p614
 views:
   - 692
 categories:

@@ -3,7 +3,7 @@ title: iPhoneではショートカットと 1Writerを用いて、Obsidianの
 author: choiyaki
 type: post
 date: 2020-12-29T14:22:02+00:00
-url: /?p=1127
+url: /p1127
 views:
   - 753
 categories:

@@ -3,7 +3,7 @@ title: iPadにキーボードで、Dynalistを扱ってみて
 author: choiyaki
 type: post
 date: 2020-02-28T13:53:23+00:00
-url: /?p=937
+url: /p937
 views:
   - 905
 categories:

@@ -3,7 +3,7 @@ title: Evernoteを紙のノートっぽいイメージで使うために
 author: choiyaki
 type: post
 date: 2018-05-04T12:17:52+00:00
-url: /?p=479
+url: /p479
 views:
   - 7894
 categories:

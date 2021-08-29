@@ -3,7 +3,7 @@ title: ObsidianPublishは、今のページを起点としてつながりのあ�
 author: choiyaki
 type: post
 date: 2021-03-09T13:13:40+00:00
-url: /?p=1191
+url: /p1191
 views:
   - 455
 categories:

@@ -3,7 +3,7 @@ title: キーボードでなんだってできるlist making tool〜checkvistの
 author: choiyaki
 type: post
 date: 2020-04-14T13:25:44+00:00
-url: /?p=1029
+url: /p1029
 views:
   - 562
 categories:

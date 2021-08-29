@@ -3,7 +3,7 @@ title: iPadを手に入れて、「メモはTextwellに」で快適に
 author: choiyaki
 type: post
 date: 2019-08-15T22:14:20+00:00
-url: /?p=584
+url: /p584
 views:
   - 35331
 categories:

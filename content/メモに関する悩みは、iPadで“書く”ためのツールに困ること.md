@@ -3,7 +3,7 @@ title: メモに関する悩みは、iPadで“書く”ためのツールに困
 author: choiyaki
 type: post
 date: 2019-11-09T13:02:36+00:00
-url: /?p=665
+url: /p665
 views:
   - 469
 categories:

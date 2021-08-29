@@ -3,7 +3,7 @@ title: Evernoteサブアカウント運用その1「運用方法とそのメリ�
 author: choiyaki
 type: post
 date: 2015-05-12T00:09:16+00:00
-url: /?p=117
+url: /p117
 views:
   - 1128
 categories:
