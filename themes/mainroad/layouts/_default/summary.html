@@ -18,6 +18,16 @@
 		{{ with partial "post_meta.html" . -}}
 		<div class="list__meta meta">{{ . }}</div>
 		{{- end }}
+
+		<!-- カテゴリ…・タグ追記 -->
+<ul class="facts_tags">
+  {{ range .Params.categories }}
+ <i class="fas fa-tags" aria-hidden="true"></i><a class="btn more-btn" href="{{ $.Site.BaseURL }}categories/{{ . | urlize }}">{{ . }}</a>
+  {{ end }}
+  {{ range .Params.tags }}
+  <i class="fas fa-tags" aria-hidden="true"></i><a class="widget-taglist__link btn" href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">{{ . }}</a>
+  {{ end }}
+</ul>
 	</header>
 	<div class="content list__excerpt post__content clearfix">
 		{{ .Content }}
@@ -29,4 +39,5 @@
 	</div>
 	{{- end }}
 	{{- end }}
+	
 </article>

@@ -777,13 +777,22 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 .more-btn,
 a.more-btn {
-  color: #fff;
-  background-color: #008080;
+  /*color: #fff;*/
+  background-color: #fff;
+  color: #008080;
+  border: 2px solid;
+  border-color: #008080;
+  font-size: 13px;
+  display: inline-block;
+  margin: 0 4px 4px 0;
 }
 .more-btn:hover,
 a.more-btn:hover {
   color: #fff;
-  background: #000000;
+  background: #008080;
+  font-size: 13px;
+  display: inline-block;
+  margin: 0 4px 4px 0;
 }
 
 
@@ -1362,5 +1371,12 @@ textarea {
 		display: block;
 		font-size: 11px;
 		font-size: .6875rem;
+	}
+}
+
+ul.facts_tags{
+	text-align: right;
+	a {
+		background-color: #000;	
 	}
 }
