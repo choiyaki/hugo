@@ -770,7 +770,6 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 .button-area {
 	text-align: right;
-	padding-right: 20px
 }
 .button-area a {
 	display: inline-block;
@@ -799,6 +798,28 @@ a.more-btn:hover {
   margin: 0 4px 4px 0;
 }
 
+.more-btn-summary,
+a.more-btn-summary {
+  background-color: #fff;
+  color: #7acccc;
+  border: 2px solid;
+  border-color: #7acccc;
+  font-size: 10px;
+  display: inline-block;
+  margin: 2px 4px 4px 0;
+  border-radius: 3px;
+}
+
+.more-btn-summary:hover,
+a.more-btn-summary:hover {
+  color: #808080;
+  /* background: #008080;*/
+  background-color: #fff;
+  border-color: #808080;
+  font-size: 10px;
+  display: inline-block;
+  margin: 2px 4px 4px 0;
+}
 
 .tags__item {
 	float: left;
@@ -1212,6 +1233,27 @@ textarea {
 }
 .widget-taglist__link:hover {
   background-color: #000;
+}
+
+/* Tags Widget */
+.widget-taglist__link-summary {
+	display: inline-block;
+	font-size: 9px;
+	text-transform: none;
+	border-top-left-radius: 100vh;
+    border-bottom-left-radius: 100vh;
+    border-top-right-radius: 80px;
+    border-bottom-right-radius: 80px;
+    background-color: #7acccc;
+}
+.widget-taglist__link-summary:before {
+	content: "●";
+	margin-right: 8px;
+	margin-left: -4px;
+	font-size: 7px;
+}
+.widget-taglist__link-summary:hover {
+  background-color: #808080;
 }
 
 /* Languages Widget */

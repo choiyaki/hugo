@@ -22,10 +22,10 @@
 		<!-- カテゴリ…・タグ追記 -->
 <ul class="facts_tags">
   {{ range .Params.categories }}
- <i class="fas fa-tags" aria-hidden="true"></i><a class="btn more-btn" href="{{ $.Site.BaseURL }}categories/{{ . | urlize }}">{{ . }}</a>
+ <i class="fas fa-tags" aria-hidden="true"></i><a class="btn more-btn-summary" href="{{ $.Site.BaseURL }}/categories/{{ . | urlize }}">{{ . }}</a>
   {{ end }}
   {{ range .Params.tags }}
-   <a class="widget-taglist__link btn" href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">{{ . }}</a>
+   <a class="widget-taglist__link-summary btn" href="{{ $.Site.BaseURL }}/tags/{{ . | urlize }}">{{ . }}</a>
   {{ end }}
 </ul>
 	</header>
