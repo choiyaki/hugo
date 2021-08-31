@@ -2,7 +2,7 @@
 title: Apple純正メモ帳を使っての連用手帳
 author: choiyaki
 type: post
-date: "2021-08-31T22:40:01Z+09:00"
+date: 2021-08-31T20:00:01+09:00
 url: /p20210831
 categories:
   - 手帳
