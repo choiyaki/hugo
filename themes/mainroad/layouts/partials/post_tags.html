@@ -2,7 +2,7 @@
 <div class="post__tags tags clearfix">
 	<ul class="tags__list">
   {{ range .Params.tags }}
-   <a class="widget-taglist__link btn" href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">{{ . }}</a>
+   <a class="widget-taglist__link btn" href="{{ $.Site.BaseURL }}/tags/{{ . | urlize }}">{{ . }}</a>
   {{ end }}
 </ul>
 </div>
