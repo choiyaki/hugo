@@ -9,10 +9,11 @@
 
 {{- if $sidebar -}}
 <aside class="sidebar{{ if eq $sidebar "left" }} sidebar--left{{ end }}">
-<p class="sample1" style="text-align: right">
-	<img  src="https://gyazo.com/e3295a1994da57506aee0aa388b34b7f.jpg" alt="choiyaki" title="choiyaki"><a href="https://twitter.com/choiyaki">@choiyaki</a>
+<p class="sample1" style="text-align: center">
+	<a href="https://twitter.com/choiyaki">@choiyaki</a><br>
+	<img  src="https://gyazo.com/e3295a1994da57506aee0aa388b34b7f.jpg" alt="choiyaki" title="choiyaki">
+	<a href="https://choiyaki.com/p000">choiyakiとこのブログについて</a>
 </p>
-<a href="https://twitter.com/choiyaki">choiyakiとこのブログについて</a>
 {{- $root := . }}
 {{- with (default .Site.Params.sidebar.widgets .Params.widgets) -}}
 	{{- range $widget := . }}
