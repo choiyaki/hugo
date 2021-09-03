@@ -1441,3 +1441,7 @@ ul.facts_tags{
 		background-color: #000;	
 	}
 }
+
+p.sample1 img  {
+	border-radius: 180px;
+}
