@@ -1,6 +1,6 @@
 ---
 title: Obsidianにて、日々のタスク管理
-date: 2021-09-11T22:30:00+09:00
+date: 2021-09-11T22:00:00+09:00
 draft: true
 author: choiyaki
 url: /p20210908
