@@ -87,7 +87,7 @@ Obsidianの中には、ブログ用に書いた文章とかObsidian Publishで�
 ObsidianPublishとブログという2つの公開サイトを持っている場合にも、「書く場所」がObsidianで共通していることが利点になることについて書いてみました。  
 Obsidianを利用している理由は今回書いた部分だけではなく、他にもあるわけですが、それについて書いた本が2月に発売となりました。
 
-[![](https://gyazo.com/aeb8182132416906cd7e8aef58791f1c.jpg)](https://amzn.to/3uNNV7e)
+[![](https://gyazo.com/aeb8182132416906cd7e8aef58791f1c.jpg)](https://amzn.to/3uNNV7e)  
 [情報をまとめて・並べるだけ！ 超シンプルな「手帳」兼「アイデア帳」運用術](https://amzn.to/3uNNV7e)
 
 よろしければこちらも読んでいただければと思います。
