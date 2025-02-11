@@ -36,39 +36,9 @@ tags:
 
 では、お読みいただきありがとうございました。
 
-<div id="appreach-box" style="text-align: left;">
-  <img id="appreach-image" src="https://i0.wp.com/is4-ssl.mzstatic.com/image/thumb/Purple113/v4/1a/9f/c8/1a9fc8a6-7a8c-c4d1-762f-de14d62e9e0a/source/512x512bb.jpg?w=660&#038;ssl=1" alt="Noteshelf" style="float: left; margin: 10px; width: 25%; max-width: 120px; border-top-left-radius: 10%; border-top-right-radius: 10%; border-bottom-right-radius: 10%; border-bottom-left-radius: 10%;" data-recalc-dims="1" /></p> 
-  
-  <div class="appreach-info" style="margin: 10px;">
-    <div id="appreach-appname">
-      Noteshelf
-    </div>
-    
-    <div id="appreach-developer" style="font-size: 80%; display: inline-block;">
-      開発元:<span id="appreach-developerurl">Fluid Touch Pte. Ltd.</span>
-    </div>
-    
-    <div id="appreach-price" style="font-size: 80%; display: inline-block;">
-      ¥1,220
-    </div>
-    
-    <div class="appreach-powered" style="font-size: 80%; display: inline-block;">
-      posted with<a href="https://mama-hack.com/app-reach/" title="アプリーチ" target="_blank" rel="nofollow noopener noreferrer">アプリーチ</a>
-    </div>
-    
-    <div class="appreach-links" style="float: left;">
-      <div id="appreach-itunes-link" style="display: inline-block;">
-        <a id="appreach-itunes" href="https://apps.apple.com/jp/app/noteshelf/id1271086060?uo=4" rel="nofollow"><img src="https://nabettu.github.io/appreach/img/itune_ja.svg" style="height: 40px; width: 135px;" /></a>
-      </div>
-      
-      <div id="appreach-gplay-link" style="display: inline-block;">
-      </div>
-    </div>
-  </div>
-  
-  <div class="appreach-footer" style="margin-bottom: 10px; clear: left;">
-  </div>
-</div>
+![|100](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/31/36/5e313685-3ad8-42b9-70de-29309a868a90/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-85-220.png/512x512bb.png)
+[Noteshelf - ノート・メモ｜手書きノート＆メモ帳](https://apps.apple.com/jp/app/noteshelf-%E3%83%8E%E3%83%BC%E3%83%88-%E3%83%A1%E3%83%A2-%E6%89%8B%E6%9B%B8%E3%81%8D%E3%83%8E%E3%83%BC%E3%83%88-%E3%83%A1%E3%83%A2%E5%B8%B3/id1271086060?uo=4)
+価格: 1500円（2025/02/11 8:52）
 
  [1]: https://scrapbox.io/choiyaki-hondana/iPad
  [2]: https://scrapbox.io/choiyaki-hondana/Apple_Pencil
