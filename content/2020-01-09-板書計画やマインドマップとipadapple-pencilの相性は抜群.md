@@ -36,7 +36,7 @@ tags:
 
 では、お読みいただきありがとうございました。
 
-![|100](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/31/36/5e313685-3ad8-42b9-70de-29309a868a90/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-85-220.png/512x512bb.png)
+![|50](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/31/36/5e313685-3ad8-42b9-70de-29309a868a90/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-85-220.png/512x512bb.png)
 [Noteshelf - ノート・メモ｜手書きノート＆メモ帳](https://apps.apple.com/jp/app/noteshelf-%E3%83%8E%E3%83%BC%E3%83%88-%E3%83%A1%E3%83%A2-%E6%89%8B%E6%9B%B8%E3%81%8D%E3%83%8E%E3%83%BC%E3%83%88-%E3%83%A1%E3%83%A2%E5%B8%B3/id1271086060?uo=4)
 価格: 1500円（2025/02/11 8:52）
 
