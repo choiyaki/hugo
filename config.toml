@@ -14,7 +14,7 @@ footnoteReturnLinkContents = "^"
 summaryLength = 300
 hasCJKLanguage = true
 
-hardLineBreak: true
+hardLineBreak = true
 
 [menu]
 
