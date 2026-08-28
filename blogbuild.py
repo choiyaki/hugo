@@ -40,7 +40,18 @@ def fm_lines(fm, drop):
 
 # ---- 索引 -------------------------------------------------------------
 published = {norm(f[:-3]): f[:-3] for f in os.listdir(PUBLISHED) if f.endswith(".md")}
-posts = sorted(f for f in os.listdir(POSTS) if f.endswith(".md"))
+# 記事以外の .md を取り込まない
+#   README/LICENSE 等、tag:/category: の実体ノート、_ で始まるもの
+def is_post(f):
+    if not f.endswith(".md"): return False
+    stem = f[:-3]
+    if stem.lower() in ("readme", "license", "contributing", "changelog"): return False
+    if stem.startswith(("tag:", "category:", "_")): return False
+    return True
+
+posts = sorted(f for f in os.listdir(POSTS) if is_post(f))
+skipped = sorted(f for f in os.listdir(POSTS) if f.endswith(".md") and not is_post(f))
+if skipped: print(f"[blogbuild] 記事以外として除外: {', '.join(skipped)}")
 
 url_of, meta = {}, {}
 used_urls, dated = set(), []
