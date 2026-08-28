@@ -1,0 +1,6 @@
+# build.sh が生成する作業用ディレクトリ
+/content/
+/public/
+/docs/
+/__published/
+.DS_Store
