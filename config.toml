@@ -55,13 +55,14 @@ weight = 10
 [Params]
   mainSections = ["post", "posts"]
   description = "<your site description>"
+  googleFontsLink = "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+JP&display=swap"
 
 [Params.style.vars]
   highlightColor = "#008080" # Override highlight color
-  
+
   # Override font-family sets. Secondary font-family set responsible for pre, code, kbd, and samp tags font
   # Take care of different quotes OR escaping symbols in these params if necessary
-  fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
+  fontFamilyPrimary = "'IBM Plex Sans JP', 'Open Sans', Helvetica, Arial, sans-serif"
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
 [Params.sidebar]
