@@ -198,7 +198,6 @@ h6 {
 a {
 	color: {{ $highlightColor }};
 	text-decoration: none;
-	font-weight: 700;
 }
 
 a:hover {
@@ -676,7 +675,6 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .content a,
 .warning a,
 .authorbox__description a {
-	font-weight: 800;
 	color: {{ $highlightColor }};
 }
 
@@ -684,7 +682,11 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .warning a:hover,
 .authorbox__description a:hover {
 	color: #000;
-	/*text-decoration: underline;*/
+}
+
+/* 同じブログ内へのリンクは下線なし、外部サイトへのリンクは下線あり */
+.content a[href^="http"]:not([href*="choiyaki.com"]) {
+	text-decoration: underline;
 }
 
 .content .alignnone {
