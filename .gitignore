@@ -4,3 +4,4 @@
 /docs/
 /__published/
 .DS_Store
+.hugo_build.lock
