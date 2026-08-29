@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """blogposts の .md を Hugo の content/ 用に変換する。
 
+  - <!-- ... -->                → 本文から除去する（下書きメモが HTML に漏れないように）
   - [[category:X]] / [[tag:Y]]  → frontmatter の categories/tags に移し、本文から消す
   - [[📄T]]                     → /pNNNN         （ブログ内リンク。旧接頭辞 【Blog】 も受け付ける）
   - [[T]]（豆論文）             → https://thst.choiyaki.com/docs/T/
@@ -92,6 +93,19 @@ for f in posts:
     url_of[norm(meta[f]["stem"])] = meta[f]["url"]
 
 # ---- 変換 -------------------------------------------------------------
+# HTML コメント。config.toml が unsafe=true なので、除去しないと下書きメモが
+# そのまま HTML に出る。hugo --minify に頼らず、ここで確実に落とす。
+# コードブロック／コードスパンの中身は対象外。
+COMMENT = re.compile(r'<!--.*?-->', re.S)
+CODE    = re.compile(r'(?ms)^```.*?^```|`[^`\n]+`')
+
+def strip_comments(body):
+    keep = [(m.start(), m.end()) for m in CODE.finditer(body)]
+    def drop(mo):
+        if any(a <= mo.start() < b for a, b in keep): return mo.group(0)
+        return ""
+    return COMMENT.sub(drop, body)
+
 CAT = re.compile(r'\[\[category:([^\]\n]+)\]\]')
 TAG = re.compile(r'\[\[tag:([^\]\n]+)\]\]')
 WL  = re.compile(r'\[\[([^\]\n]+)\]\]')
@@ -100,6 +114,7 @@ warn = []
 def convert(f):
     m = meta[f]
     body = m["body"]
+    body = strip_comments(body)
     cats = [x.strip() for x in CAT.findall(body)]
     tags = [x.strip() for x in TAG.findall(body)]
     body = TAG.sub("", CAT.sub("", body))
