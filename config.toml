@@ -55,14 +55,14 @@ weight = 10
 [Params]
   mainSections = ["post", "posts"]
   description = "<your site description>"
-  googleFontsLink = "https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New&display=swap"
+  googleFontsLink = "https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap"
 
 [Params.style.vars]
-  highlightColor = "#008080" # Override highlight color
+  highlightColor = "#00A0A0" # Override highlight color (brightened from #008080 for link legibility)
 
   # Override font-family sets. Secondary font-family set responsible for pre, code, kbd, and samp tags font
   # Take care of different quotes OR escaping symbols in these params if necessary
-  fontFamilyPrimary = "'Zen Kaku Gothic New', 'Open Sans', Helvetica, Arial, sans-serif"
+  fontFamilyPrimary = "'Noto Sans JP', 'Open Sans', Helvetica, Arial, sans-serif"
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
 [Params.sidebar]
