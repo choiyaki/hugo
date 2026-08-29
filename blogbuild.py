@@ -5,6 +5,7 @@
   - [[category:X]] / [[tag:Y]]  → frontmatter の categories/tags に移し、本文から消す
   - [[【Blog】T]]               → /pNNNN         （ブログ内リンク）
   - [[T]]（豆論文）             → https://thst.choiyaki.com/docs/T/
+  - [[T|表示テキスト]]          → 表示テキストをリンク文字列に使う（Obsidian の別名記法）
   - どちらでもない [[X]]        → リンクにせず素通し（警告を出す）
   - author / type を注入。url が無ければ date から /pYYYYMMDD を採番
 """
@@ -97,15 +98,19 @@ def convert(f):
     body = re.sub(r'\n[ \t]*\n[ \t]*\n+', "\n\n", body).rstrip() + "\n"
 
     def link(mo):
-        inner = mo.group(1).split("|")[0].split("#")[0].strip()
+        target, _, alias = mo.group(1).partition("|")
+        inner = target.split("#")[0].strip()
+        alias = alias.strip()
         if not inner: return mo.group(0)
         k = norm(inner)
+        # 別名があればそれを、無ければ 【Blog】 を落としたタイトルを表示に使う
+        text = alias or (inner[len(MARK):] if inner.startswith(MARK) else inner)
         if k in url_of:                       # ブログ内の記事
-            return f"[{inner[len(MARK):] if inner.startswith(MARK) else inner}]({url_of[k]})"
+            return f"[{text}]({url_of[k]})"
         if k in published:                    # 豆論文
-            return f"[{inner}]({THST}{up.quote(published[k])}/)"
+            return f"[{text}]({THST}{up.quote(published[k])}/)"
         warn.append((f, inner))
-        return inner                          # 解決しないものは素のテキスト
+        return text                           # 解決しないものは素のテキスト
     body = WL.sub(link, body)
 
     keep = fm_lines(m["fm"], {"categories", "tags", "tag", "author", "type",
