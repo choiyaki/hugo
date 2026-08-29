@@ -689,6 +689,11 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	text-decoration: underline;
 }
 
+/* thst.choiyaki.com へのリンクは青色 */
+.content a[href*="thst.choiyaki.com"] {
+	color: #1a73e8;
+}
+
 .content .alignnone {
 	display: block;
 	margin: 20px 0;
