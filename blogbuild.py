@@ -3,7 +3,7 @@
 """blogposts の .md を Hugo の content/ 用に変換する。
 
   - [[category:X]] / [[tag:Y]]  → frontmatter の categories/tags に移し、本文から消す
-  - [[【Blog】T]]               → /pNNNN         （ブログ内リンク）
+  - [[📄T]]                     → /pNNNN         （ブログ内リンク。旧接頭辞 【Blog】 も受け付ける）
   - [[T]]（豆論文）             → https://thst.choiyaki.com/docs/T/
   - [[T|表示テキスト]]          → 表示テキストをリンク文字列に使う（Obsidian の別名記法）
   - どちらでもない [[X]]        → リンクにせず素通し（警告を出す）
@@ -14,7 +14,15 @@ import urllib.parse as up
 
 POSTS, PUBLISHED, OUT = sys.argv[1], sys.argv[2], sys.argv[3]
 THST = "https://thst.choiyaki.com/docs/"
-MARK = "【Blog】"
+MARK = "📄"
+# 移行期間中は旧接頭辞も受け付ける（couchNotes 側の同期が一巡するまで）
+MARKS = ("📄", "【Blog】")
+
+def strip_mark(s):
+    for m in MARKS:
+        if s.startswith(m):
+            return s[len(m):]
+    return s
 
 def norm(s): return unicodedata.normalize("NFC", s).strip().lower()
 
@@ -60,7 +68,7 @@ for f in posts:
     raw = open(os.path.join(POSTS, f), encoding="utf-8", errors="replace").read()
     fm, body = split_fm(raw)
     stem = f[:-3]
-    title = fm_get(fm, "title") or (stem[len(MARK):] if stem.startswith(MARK) else stem)
+    title = fm_get(fm, "title") or strip_mark(stem)
     date = fm_get(fm, "date")
     if not date:
         c = fm_get(fm, "created")
@@ -104,7 +112,7 @@ def convert(f):
         if not inner: return mo.group(0)
         k = norm(inner)
         # 別名があればそれを、無ければ 【Blog】 を落としたタイトルを表示に使う
-        text = alias or (inner[len(MARK):] if inner.startswith(MARK) else inner)
+        text = alias or strip_mark(inner)
         if k in url_of:                       # ブログ内の記事
             return f"[{text}]({url_of[k]})"
         if k in published:                    # 豆論文
@@ -128,7 +136,7 @@ os.makedirs(OUT, exist_ok=True)
 n = 0
 for f in posts:
     stem = meta[f]["stem"]
-    name = (stem[len(MARK):] if stem.startswith(MARK) else stem).replace("/", "／")
+    name = strip_mark(stem).replace("/", "／")
     if len(name.encode()) > 200: name = name.encode()[:200].decode("utf-8", "ignore")
     dst = os.path.join(OUT, name + ".md")
     i = 1
