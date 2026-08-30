@@ -1,0 +1,19 @@
+{{ define "main" }}
+{{- $isTaxonomy := or (eq .Kind "taxonomy") (eq .Kind "term") }}
+<main class="main list" role="main"{{ if $isTaxonomy }} data-pagefind-ignore{{ end }}>
+	{{- with .Title }}
+	<header class="main__header">
+		<h1 class="main__title">{{ . }}</h1>
+	</header>
+	{{- end }}
+	{{- with .Content }}
+	<div class="content main__content clearfix">
+		{{ . }}
+	</div>
+	{{- end }}
+	{{- range .Paginator.Pages }}
+		{{- .Render "summary" }}
+	{{- end }}
+</main>
+{{ partial "pagination.html" . }}
+{{ end }}
