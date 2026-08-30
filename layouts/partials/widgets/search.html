@@ -1,0 +1,23 @@
+<div class="widget-search widget">
+	<div id="pagefind-search"></div>
+</div>
+<link href="{{ "pagefind/pagefind-ui.css" | relURL }}" rel="stylesheet">
+<script src="{{ "pagefind/pagefind-ui.js" | relURL }}"></script>
+<script>
+	window.addEventListener("DOMContentLoaded", function () {
+		if (typeof PagefindUI === "undefined") return;
+		new PagefindUI({
+			element: "#pagefind-search",
+			showSubResults: true,
+			showImages: false,
+			translations: {
+				placeholder: "{{ T "search_placeholder" }}",
+				zero_results: "「[SEARCH_TERM]」に一致する記事は見つかりませんでした",
+				many_results: "「[SEARCH_TERM]」の検索結果 [COUNT] 件",
+				one_result: "「[SEARCH_TERM]」の検索結果 1 件",
+				searching: "「[SEARCH_TERM]」を検索中…",
+				clear_search: "クリア"
+			}
+		});
+	});
+</script>
