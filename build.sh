@@ -17,4 +17,15 @@ python3 "$HUGO_ROOT/blogbuild.py" "$POSTS" __published "$HUGO_ROOT/content"
 
 echo "▶ Hugo ビルド"
 hugo --gc --minify --source "$HUGO_ROOT" --destination "$PWD/public"
+
+echo "▶ 検索インデックスを生成 (Pagefind)"
+# amp/ 以下は各ページの複製なので、検索結果が二重に出ないよう除いてインデックスする。
+PF_SRC="$(mktemp -d)"
+cp -a "$PWD/public/." "$PF_SRC/"
+rm -rf "$PF_SRC/amp"
+npx --yes pagefind --site "$PF_SRC"
+rm -rf "$PWD/public/pagefind"
+cp -a "$PF_SRC/pagefind" "$PWD/public/pagefind"
+rm -rf "$PF_SRC"
+
 echo "✅ public/ に出力しました"
